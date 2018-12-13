@@ -1,0 +1,8 @@
+runMain scalashop.VerticalBoxBlurRunner
+runMain scalashop.HorizontalBoxBlurRunner
+runMain scalashop.VerticalBoxBlurRunner
+runMain scalashop.ScalaShop
+test
+submit wiebe@wiebehordijk.nl A5XC5SXKqYsq9UFU
+test
+submit wiebe@wiebehordijk.nl YcK6qrQlELVx3OKZ

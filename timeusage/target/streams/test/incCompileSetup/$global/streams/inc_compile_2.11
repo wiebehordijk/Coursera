@@ -1,0 +1,244 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+13 items
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$1.class
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$2$$anonfun$10.class
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$2.class
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$3.class
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$4.class
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$5$$anonfun$11.class
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$5.class
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$6.class
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$7.class
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$8.class
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$9.class
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$testImplicits$.class
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite.class
+binary dependencies:
+6 items
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\junit\junit\4.10\junit-4.10.jar
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-catalyst_2.11\2.1.0\spark-catalyst_2.11-2.1.0.jar
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql_2.11\2.1.0\spark-sql_2.11-2.1.0.jar
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest_2.11\2.2.4\scalatest_2.11-2.2.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+2 items
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsage$
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageRow
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+13 items
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageSuite
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$1
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$2
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$2$$anonfun$10
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$3
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$4
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$5
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$5$$anonfun$11
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$6
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$7
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$8
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageSuite$$anonfun$9
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage.TimeUsageSuite$testImplicits$
+used names:
+114 items
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> $
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> $org_scalatest_assert_macro_expr
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> $org_scalatest_assert_macro_left
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> $org_scalatest_assert_macro_right
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> &&
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> +
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> ::
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> <
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> <init>
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> ===
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> >=
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> BeforeAndAfter
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> BeforeAndAfterAll
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> Bool
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> Column
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> ColumnName
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> DataFrame
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> Double
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> DoubleType
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> Equality
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> FunSuite
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> JUnitRunner
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> List
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> Nil
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> Predef
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> Random
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> Row
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> RunWith
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> SQLContext
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> SQLImplicits
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> SparkSession
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> String
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> StringContext
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> StringType
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> StructField
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> StructType
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> TimeUsage
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> TimeUsageSuite
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> _1
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> _2
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> _3
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> apache
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> apply
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> as
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> assert
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> assertionsHelper
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> before
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> binaryMacroBool
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> builder
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> classifiedColumns
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> columns
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> convertToEqualizer
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> count
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> dataType
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> default
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> df
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> dfSchema
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> forall
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> functions
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> getOrCreate
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> grouped
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> head
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> immutable
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> initDf
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> isInstanceOf
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> isInstanceOfMacroBool
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> junit
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> last
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> macroAssert
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> master
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> name
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> ne
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> nullable
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> org
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> otherActivities
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> otherColumns
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> otherwise
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> plusProjection
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> primaryNeeds
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> primaryNeedsColumns
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> read
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> reduce
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> refArrayOps
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> row
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> runner
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> scala
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> scalactic
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> scalatest
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> schema
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> select
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> show
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> simpleMacroBool
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> size
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> spark
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> spark_=
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> sql
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> sqlContext
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> summaryDS
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> summaryDf
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> test
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> testImplicits
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeUsageGrouped
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeUsageGroupedSql
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeUsageGroupedTyped
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeUsageSummary
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeUsageSummaryTyped
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> timeusage
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> types
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> unchecked
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> util
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> when
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> workColumns
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> workingActivities
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> workingStatusProjection
+product stamps:
+13 items
+C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$1.class -> lastModified(1491853308200)
+C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$2$$anonfun$10.class -> lastModified(1491853308214)
+C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$2.class -> lastModified(1491853308209)
+C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$3.class -> lastModified(1491853308218)
+C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$4.class -> lastModified(1491853308222)
+C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$5$$anonfun$11.class -> lastModified(1491853308232)
+C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$5.class -> lastModified(1491853308227)
+C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$6.class -> lastModified(1491853308236)
+C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$7.class -> lastModified(1491853308243)
+C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$8.class -> lastModified(1491853308251)
+C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$$anonfun$9.class -> lastModified(1491853308254)
+C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite$testImplicits$.class -> lastModified(1491853308257)
+C:\Code\Coursera\timeusage\target\scala-2.11\test-classes\timeusage\TimeUsageSuite.class -> lastModified(1491853308197)
+source stamps:
+1 items
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> hash(52d003a0bee5e53be8906e15856228e97b6dc1e9)
+binary stamps:
+6 items
+C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar -> lastModified(1474662321010)
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\junit\junit\4.10\junit-4.10.jar -> lastModified(1317323535000)
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-catalyst_2.11\2.1.0\spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql_2.11\2.1.0\spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar -> lastModified(1457105192000)
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest_2.11\2.2.4\scalatest_2.11-2.2.4.jar -> lastModified(1422515758000)
+class names:
+6 items
+C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\junit\junit\4.10\junit-4.10.jar -> org.junit.runner.RunWith
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-catalyst_2.11\2.1.0\spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.types.DoubleType
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql_2.11\2.1.0\spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.SQLImplicits
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar -> scala.Tuple2$
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest_2.11\2.2.4\scalatest_2.11-2.2.4.jar -> org.scalatest.BeforeAndAfter
+internal apis:
+1 items
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBAXJj4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAoc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxgxQv3QAEW5ld0J5dGVTZXFFbmNvZGVyc3EAfgALHYlPHnQADm5ld0J5dGVFbmNvZGVyc3EAfgAL2/kUSnQAFW5ld0JveGVkRG91YmxlRW5jb2RlcnNxAH4AC2p0Xg50ABRuZXdCb3hlZEZsb2F0RW5jb2RlcnNxAH4AC0IfVj90ABNuZXdCeXRlQXJyYXlFbmNvZGVyc3EAfgALRyathHQAEm5ld0ludEFycmF5RW5jb2RlcnNxAH4ACztVBEl0ABZuZXdCb29sZWFuQXJyYXlFbmNvZGVyc3EAfgALYmmb2nQAD25ld0Zsb2F0RW5jb2RlcnNxAH4AC/d/iSZ0ABFuZXdQcm9kdWN0RW5jb2RlcnNxAH4ACzTfwOF0ABVuZXdEb3VibGVBcnJheUVuY29kZXJzcQB+AAv7unV5dAATbmV3Qm94ZWRMb25nRW5jb2RlcnNxAH4AC1xKKEJ0ABRuZXdQcm9kdWN0U2VxRW5jb2RlcnNxAH4AC+MgTOB0ABRuZXdCb3hlZFNob3J0RW5jb2RlcnNxAH4ACyH0LGl0ABJuZXdGbG9hdFNlcUVuY29kZXJzcQB+AAssnGNodAASbmV3U2hvcnRTZXFFbmNvZGVyc3EAfgAL3NU24nQAEmNvbnZlcnRUb0VxdWFsaXplcnNxAH4AC0+Smf90ABRuZXdCb29sZWFuU2VxRW5jb2RlcnNxAH4AC9vMNGR0AA1uZXdJbnRFbmNvZGVyc3EAfgALs55nNnQAFG5ld1Nob3J0QXJyYXlFbmNvZGVyc3EAfgAL1vH4pHQAEG5ld1N0cmluZ0VuY29kZXJzcQB+AAvfCJ3FdAARbmV3Qm9vbGVhbkVuY29kZXJzcQB+AAsI2ppvdAAOU3RyaW5nVG9Db2x1bW5zcQB+AAuf/B+EdAAQbmV3SW50U2VxRW5jb2RlcnNxAH4AC9dqRpt0ABNuZXdMb25nQXJyYXlFbmNvZGVyc3EAfgAL2A0mtnQAD25ld1Nob3J0RW5jb2RlcnNxAH4AC+uetCd0ABRuZXdGbG9hdEFycmF5RW5jb2RlcnNxAH4AC8Dicf90ABJuZXdCb3hlZEludEVuY29kZXJzcQB+AAtSWNi6dAAXbG9jYWxTZXFUb0RhdGFzZXRIb2xkZXJzcQB+AAsNvfvZdAAWbmV3Qm94ZWRCb29sZWFuRW5jb2RlcnNxAH4AC1vellh0ABBuZXdEb3VibGVFbmNvZGVyc3EAfgALMxri2XQADnN5bWJvbFRvQ29sdW1uc3EAfgALAp+5qHQAE25ld0RvdWJsZVNlcUVuY29kZXJzcQB+AAusl1WpdAAObmV3TG9uZ0VuY29kZXJzcQB+AAsIt2dUdAAWbmV3UHJvZHVjdEFycmF5RW5jb2RlcnNxAH4ACw8IDVx0ABV1bmNvbnN0cmFpbmVkRXF1YWxpdHlzcQB+AAs2bg7/dAAScmRkVG9EYXRhc2V0SG9sZGVyc3EAfgALWN7hS3QAE25ld1N0cmluZ1NlcUVuY29kZXJzcQB+AAuUhqrcdAATbmV3Qm94ZWRCeXRlRW5jb2RlcnNxAH4AC2ZYzJl0ABVuZXdTdHJpbmdBcnJheUVuY29kZXJzcQB+AAvQKwLSdAARbmV3TG9uZ1NlcUVuY29kZXJ1cQB+AAkAAABuc3EAfgALc0uCj3QABmFzc2VydHNxAH4AC/Q6lAJ0AAZub3RpZnlzcQB+AAtt8ag7dAAmbG93UHJpb3JpdHlDb252ZXJzaW9uQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAsbsiredAANdGVzdEltcGxpY2l0c3NxAH4AC697fml0ABBBc3NlcnRpb25zSGVscGVyc3EAfgALdX3AQnQABmNhbmNlbHNxAH4AC0oZ73h0AAR0ZXN0c3EAfgAL8oJf13QAEWV4ZWN1dGUkZGVmYXVsdCQyc3EAfgALRMoNf3QADGV4cGVjdFJlc3VsdHNxAH4AC5w3BUh0AAlpbnRlcmNlcHRzcQB+AAuZrNHQdAAEZmFpbHNxAH4AC2soaTd0AARuYW1lc3EAfgALtn+WOnQAFGFzc2VydERvZXNOb3RDb21waWxlc3EAfgALu4c1cHQAEWV4ZWN1dGUkZGVmYXVsdCQ0c3EAfgALzLlysHQAB2V4ZWN1dGVzcQB+AAsqZ/a4dAAEd2FpdHNxAH4AC/z6+xZ0AAt0ZXN0RGF0YUZvcnNxAH4AC05ahfZ0ABNjcmVhdGVDYXRjaFJlcG9ydGVyc3EAfgALEHeyK3QACXN0eWxlTmFtZXNxAH4AC8TSA8B0AA0kYXNJbnN0YW5jZU9mc3EAfgALYr8453QAEWV4ZWN1dGUkZGVmYXVsdCQzc3EAfgALarOjpnQACWNvbmZpZ01hcHNxAH4AC9PATUp0AAtkaWZmU3RyaW5nc3NxAH4AC8K41B50AAZlcXVhbHNzcQB+AAu+qu/wdAAsY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAugRHhydAAPZGVmYXVsdEVxdWFsaXR5c3EAfgALzJc72XQAImNvbnZlcnRFcXVpdmFsZW5jZVRvQVRvQkNvbnN0cmFpbnRzcQB+AAvo/plodAAEdGFnc3NxAH4ACwhyNe90AAxhc0luc3RhbmNlT2ZzcQB+AAsNvGrAdAAFYWxlcnRzcQB+AAuhlPEddAADcnVuc3EAfgAL9ML03nQAD0xlZ2FjeUVxdWFsaXplcnNxAH4AC2otbDZ0AAZzY29wZXNzcQB+AAtr/eFWdAAGYmVmb3Jlc3EAfgALIyi0vnQAGGNvbnZlcnRUb0xlZ2FjeUVxdWFsaXplcnNxAH4AC4clSh10AAxzeW5jaHJvbml6ZWRzcQB+AAtj4apYdAACc2NzcQB+AAuTIRMSdAAOYXNzZXJ0Q29tcGlsZXNzcQB+AAsoBkBhdAANJGlzSW5zdGFuY2VPZnNxAH4ACwrBPZ50AAR0cmFwc3EAfgALa9tZN3QAFXRlc3REYXRhRm9yJGRlZmF1bHQkMnNxAH4AC3/5yy50AAxhc3NlcnRSZXN1bHRzcQB+AAsrT53LdAAEdGV4dHNxAH4AC7bg70R0ACxjb252ZXJ0RXF1aXZhbGVuY2VUb0JUb0FDb252ZXJzaW9uQ29uc3RyYWludHNxAH4AC6909ON0ABFleGVjdXRlJGRlZmF1bHQkN3NxAH4AC8srLet0ABV0eXBlQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAs4iUIqdAADIT09c3EAfgAL+90i7nQABGluZm9zcQB+AAtazlUadAAJbm90aWZ5QWxsc3EAfgAL31zon3QAC3dpdGhGaXh0dXJlc3EAfgAL+tV8GXQAB3J1blRlc3RzcQB+AAtixbr8dAAMaXNJbnN0YW5jZU9mc3EAfgAL2y1ev3QACHdpdGhDbHVlc3EAfgALzJC4YXQAEGFzc2VydGlvbnNIZWxwZXJzcQB+AAsJE5VXdAARZXhlY3V0ZSRkZWZhdWx0JDZzcQB+AAvoRSCSdAAPYXNzZXJ0VHlwZUVycm9yc3EAfgALSRR68XQABm1hcmt1cHNxAH4AC5DDoxl0AAtfc3FsQ29udGV4dHNxAH4AC0PENB10AAhsZWZ0U2lkZXNxAH4ACz5vcld0AAY8aW5pdD5zcQB+AAtGEm8SdAALbWFjcm9Bc3N1bWVzcQB+AAs67KXcdAAPcnVuTmVzdGVkU3VpdGVzc3EAfgALXwiYTXQABWFwcGx5c3EAfgALYhYHl3QABWFmdGVyc3EAfgALE2ItEnQACUVxdWFsaXplcnNxAH4AC4tFZSp0AAVzcGFya3NxAH4AC7TxDPF0ABtuZXdBc3NlcnRpb25GYWlsZWRFeGNlcHRpb25zcQB+AAsppnmIdAAEbm90ZXNxAH4AC3Qys+N0AAI9PXNxAH4AC2FyfCB0AAVjbG9uZXNxAH4AC3TX1Lt0AAZleHBlY3RzcQB+AAsb6Y7cdAAMbmVzdGVkU3VpdGVzc3EAfgALZLedy3QABmFzc3VtZXNxAH4AC2FSIxF0ACBsb3dQcmlvcml0eVR5cGVDaGVja2VkQ29uc3RyYWludHNxAH4ACz/4iel0AAxyZWdpc3RlclRlc3RzcQB+AAvg8NoUdAARZXhlY3V0ZSRkZWZhdWx0JDVzcQB+AAtfGcb2dAADPT09c3EAfgALwaIpj3QAGG5ld1Rlc3RDYW5jZWxlZEV4Y2VwdGlvbnNxAH4ACxG9SPV0AAh0b1N0cmluZ3NxAH4AC/2GS9t0AAl0ZXN0TmFtZXNzcQB+AAsmXWHWdAARZXhlY3V0ZSRkZWZhdWx0JDFzcQB+AAsuKWnvdAACIT1zcQB+AAvL8v43dAAXTGVnYWN5Q2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAsIQF9ndAAIZ2V0Q2xhc3NzcQB+AAv72wIDdAATcmVnaXN0ZXJJZ25vcmVkVGVzdHNxAH4AC7kCBDR0AAh0ZXN0c0ZvcnNxAH4AC5g5H0J0AAhydW5UZXN0c3NxAH4ACwfxax50ABFwZW5kaW5nVW50aWxGaXhlZHNxAH4AC1/1mld0ABFleHBlY3RlZFRlc3RDb3VudHNxAH4AC8Kvai50AAhyZXJ1bm5lcnNxAH4ACxeJ/KV0ACJjb252ZXJ0RXF1aXZhbGVuY2VUb0JUb0FDb25zdHJhaW50c3EAfgALczslBHQAAm5lc3EAfgALJsjhvXQAASRzcQB+AAuhrm/tdAARQ2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAt6T93DdAAgY29udmVydFRvTGVnYWN5Q2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAsvocd3dAAHcGVuZGluZ3NxAH4AC94/pJt0AAZpZ25vcmVzcQB+AAsWen+0dAALbWFjcm9Bc3NlcnRzcQB+AAuETicbdAAOVGltZVVzYWdlU3VpdGVzcQB+AAtuY1FCdAACZXFzcQB+AAscauP8dAAbZ2V0T2JqZWN0c0ZvckZhaWx1cmVNZXNzYWdlc3EAfgAL3xO8xHQAGmNvbnZlcnRUb0NoZWNraW5nRXF1YWxpemVyc3EAfgALr8Q6YnQACU5vQXJnVGVzdHNxAH4AC/DZMxp0AAIjI3NxAH4AC7D3WFl0AAhmaW5hbGl6ZXNxAH4AC5Nzpll0ABtjb252ZXJzaW9uQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAtf/qvmdAAIaGFzaENvZGVzcQB+AAuFvZtudAAHc3VpdGVJZHNxAH4ACzzkiT10AAlzdWl0ZU5hbWVzcQB+AAvkIaZadAAGYXBwZW5kc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2V0ABBMeHNidGkvYXBpL1R5cGU7eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQABXZhbHVldAAoY2xhc3NPZltvcmcuc2NhbGF0ZXN0Lmp1bml0LkpVbml0UnVubmVyXXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdSdW5XaXRoc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgFcc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+AWh0AAVqdW5pdHNxAH4BaHQABnJ1bm5lcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgFpc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAYdGltZXVzYWdlLlRpbWVVc2FnZVN1aXRldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsdAAQc2NhbGEuZGVwcmVjYXRlZHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4BgHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4BXHNxAH4BfwBwc3EAfgGEc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AUNMAAlpbmhlcml0ZWRxAH4BQ0wAB3BhcmVudHNxAH4BQ3hxAH4BXXNxAH4BfwBwc3EAfgGEdXEAfgE+AAAAAHNxAH4BfwBwc3EAfgGEdXEAfgE+AAAAAHNxAH4BfwBwc3EAfgGEdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAABFzcQB+AVp0AA5CZWZvcmVBbmRBZnRlcnNxAH4BYHNxAH4BY3VxAH4BZgAAAANzcQB+AWh0AANvcmdzcQB+AWh0AAlzY2FsYXRlc3RxAH4BcXNxAH4BWnQAClN1aXRlTWl4aW5xAH4BmHNxAH4BWnQACEZ1blN1aXRlcQB+AZhzcQB+AVp0AAxGdW5TdWl0ZUxpa2VxAH4BmHNxAH4BWnQAC0RvY3VtZW50aW5ncQB+AZhzcQB+AVp0AAhBbGVydGluZ3EAfgGYc3EAfgFadAAJTm90aWZ5aW5ncQB+AZhzcQB+AVp0AAlJbmZvcm1pbmdxAH4BmHNxAH4BWnQAEFRlc3RSZWdpc3RyYXRpb25xAH4BmHNxAH4BWnQABVN1aXRlcQB+AZhzcQB+AVp0AAxTZXJpYWxpemFibGVzcQB+AWBzcQB+AWN1cQB+AWYAAAADc3EAfgFodAAEamF2YXNxAH4BaHQAAmlvcQB+AXFzcQB+AVp0AA1BYnN0cmFjdFN1aXRlcQB+AZhzcQB+AVp0AApBc3NlcnRpb25zcQB+AZhzcQB+AVp0AAxUcmlwbGVFcXVhbHNzcQB+AWBzcQB+AWN1cQB+AWYAAAADc3EAfgFodAADb3Jnc3EAfgFodAAJc2NhbGFjdGljcQB+AXFzcQB+AVp0ABNUcmlwbGVFcXVhbHNTdXBwb3J0cQB+AcBzcQB+AVp0AAZPYmplY3RzcQB+AWBzcQB+AWN1cQB+AWYAAAADc3EAfgFocQB+AbdzcQB+AWh0AARsYW5ncQB+AXFzcQB+AVp0AANBbnlzcQB+AWBzcQB+AWN1cQB+AWYAAAACc3EAfgFodAAFc2NhbGFxAH4BcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACXRpbWV1c2FnZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW1li6qB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA5QzpcQ29kZVxDb3Vyc2VyYVx0aW1ldXNhZ2VcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUUtADoL7l5TvokG4VhWIo6Xttwek=
+external apis:
+2 items
+timeusage.TimeUsage$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAOdxRYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCmUd/R0AAZub3RpZnlzcQB+AAwlVS6ndAAEcmVhZHNxAH4ADI6Bp6J0AAd3b3JraW5nc3EAfgAMHr2loHQABHdhaXRzcQB+AAyzoejfdAAOY29weSRkZWZhdWx0JDJzcQB+AAxghNBLdAANJGFzSW5zdGFuY2VPZnNxAH4ADNvIWeh0ABV0aW1lVXNhZ2VHcm91cGVkVHlwZWRzcQB+AAwH6uMwdAAOY29weSRkZWZhdWx0JDVzcQB+AAyTvdiEdAAMVGltZVVzYWdlUm93c3EAfgAM488LynQADHByb2R1Y3RBcml0eXNxAH4ADKUZvu10AAZlcXVhbHNzcQB+AAwPuuCNdAAJVGltZVVzYWdlc3EAfgAMzwVijHQADGFzSW5zdGFuY2VPZnNxAH4ADMjO/KB0ABN0aW1lVXNhZ2VHcm91cGVkU3Fsc3EAfgAMZbYy1XQADHN5bmNocm9uaXplZHNxAH4ADFbWEcx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMIPa6/nQABmZzUGF0aHNxAH4ADB3Zf/x0AAhjYW5FcXVhbHNxAH4ADAPBpdN0ABB0aW1lVXNhZ2VTdW1tYXJ5c3EAfgAMN+ghWHQAA3Jvd3NxAH4ADJDLa/x0ABFjbGFzc2lmaWVkQ29sdW1uc3NxAH4ADJAGzAZ0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOjUbQB0AARtYWluc3EAfgAMp9BW7nQADXByb2R1Y3RQcmVmaXhzcQB+AAw54GjedAADYWdlc3EAfgAM+6WzxnQABHdvcmtzcQB+AAwVhJrudAAJbm90aWZ5QWxsc3EAfgAM9CWMTXQAFXRpbWVVc2FnZUJ5TGlmZVBlcmlvZHNxAH4ADDMxFVF0ABB0aW1lVXNhZ2VHcm91cGVkc3EAfgAMfYre7XQAA3NleHNxAH4ADKspfq10AAxpc0luc3RhbmNlT2ZzcQB+AAzuHGvUdAAGPGluaXQ+c3EAfgAMgP9DX3QABXNwYXJrc3EAfgAM5Z8rlHQAAj09c3EAfgAMOuWC2nQABWNsb25lc3EAfgAMWCW6XXQAGHRpbWVVc2FnZUdyb3VwZWRTcWxRdWVyeXNxAH4ADHAlfdp0AAhkZlNjaGVtYXNxAH4ADF3qxJ90ABV0aW1lVXNhZ2VTdW1tYXJ5VHlwZWRzcQB+AAyZylxudAAOY29weSRkZWZhdWx0JDNzcQB+AAw8PmcddAAEY29weXNxAH4ADIk06910AAh0b1N0cmluZ3NxAH4ADIWCzrh0AAxwcmltYXJ5TmVlZHNzcQB+AAyhfpX8dAACIT1zcQB+AAyXrZYTdAAIZ2V0Q2xhc3NzcQB+AAwufINUdAAOY29weSRkZWZhdWx0JDFzcQB+AAzT3BnsdAAOY29weSRkZWZhdWx0JDZzcQB+AAz1wZzXdAACbmVzcQB+AAybwt8SdAACZXFzcQB+AAxLHOcJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMkLDSmHQABW90aGVyc3EAfgAM07R1SnQAAiMjc3EAfgAMy4H1LHQACGZpbmFsaXplc3EAfgAMXBN6anQADnByb2R1Y3RFbGVtZW50c3EAfgAMZGHy6nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ag3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAE3RpbWV1c2FnZS5UaW1lVXNhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCceHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCbAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCDTAAJaW5oZXJpdGVkcQB+AINMAAdwYXJlbnRzcQB+AIN4cQB+AKRzcQB+AJsBdXEAfgB+AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCEcQB+AI11cQB+AI4AAAAAc3EAfgCQAHEAfgA7dXEAfgCTAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKN0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC/dXIAGltMeHN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
+timeusage.TimeUsageRow -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAOdxRYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCmUd/R0AAZub3RpZnlzcQB+AAwlVS6ndAAEcmVhZHNxAH4ADI6Bp6J0AAd3b3JraW5nc3EAfgAMHr2loHQABHdhaXRzcQB+AAyzoejfdAAOY29weSRkZWZhdWx0JDJzcQB+AAxghNBLdAANJGFzSW5zdGFuY2VPZnNxAH4ADNvIWeh0ABV0aW1lVXNhZ2VHcm91cGVkVHlwZWRzcQB+AAwH6uMwdAAOY29weSRkZWZhdWx0JDVzcQB+AAyTvdiEdAAMVGltZVVzYWdlUm93c3EAfgAM488LynQADHByb2R1Y3RBcml0eXNxAH4ADKUZvu10AAZlcXVhbHNzcQB+AAwPuuCNdAAJVGltZVVzYWdlc3EAfgAMzwVijHQADGFzSW5zdGFuY2VPZnNxAH4ADMjO/KB0ABN0aW1lVXNhZ2VHcm91cGVkU3Fsc3EAfgAMZbYy1XQADHN5bmNocm9uaXplZHNxAH4ADFbWEcx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMIPa6/nQABmZzUGF0aHNxAH4ADB3Zf/x0AAhjYW5FcXVhbHNxAH4ADAPBpdN0ABB0aW1lVXNhZ2VTdW1tYXJ5c3EAfgAMN+ghWHQAA3Jvd3NxAH4ADJDLa/x0ABFjbGFzc2lmaWVkQ29sdW1uc3NxAH4ADJAGzAZ0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOjUbQB0AARtYWluc3EAfgAMp9BW7nQADXByb2R1Y3RQcmVmaXhzcQB+AAw54GjedAADYWdlc3EAfgAM+6WzxnQABHdvcmtzcQB+AAwVhJrudAAJbm90aWZ5QWxsc3EAfgAM9CWMTXQAFXRpbWVVc2FnZUJ5TGlmZVBlcmlvZHNxAH4ADDMxFVF0ABB0aW1lVXNhZ2VHcm91cGVkc3EAfgAMfYre7XQAA3NleHNxAH4ADKspfq10AAxpc0luc3RhbmNlT2ZzcQB+AAzuHGvUdAAGPGluaXQ+c3EAfgAMgP9DX3QABXNwYXJrc3EAfgAM5Z8rlHQAAj09c3EAfgAMOuWC2nQABWNsb25lc3EAfgAMWCW6XXQAGHRpbWVVc2FnZUdyb3VwZWRTcWxRdWVyeXNxAH4ADHAlfdp0AAhkZlNjaGVtYXNxAH4ADF3qxJ90ABV0aW1lVXNhZ2VTdW1tYXJ5VHlwZWRzcQB+AAyZylxudAAOY29weSRkZWZhdWx0JDNzcQB+AAw8PmcddAAEY29weXNxAH4ADIk06910AAh0b1N0cmluZ3NxAH4ADIWCzrh0AAxwcmltYXJ5TmVlZHNzcQB+AAyhfpX8dAACIT1zcQB+AAyXrZYTdAAIZ2V0Q2xhc3NzcQB+AAwufINUdAAOY29weSRkZWZhdWx0JDFzcQB+AAzT3BnsdAAOY29weSRkZWZhdWx0JDZzcQB+AAz1wZzXdAACbmVzcQB+AAybwt8SdAACZXFzcQB+AAxLHOcJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMkLDSmHQABW90aGVyc3EAfgAM07R1SnQAAiMjc3EAfgAMy4H1LHQACGZpbmFsaXplc3EAfgAMXBN6anQADnByb2R1Y3RFbGVtZW50c3EAfgAMZGHy6nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ag3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAE3RpbWV1c2FnZS5UaW1lVXNhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCceHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCbAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCDTAAJaW5oZXJpdGVkcQB+AINMAAdwYXJlbnRzcQB+AIN4cQB+AKRzcQB+AJsBdXEAfgB+AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCEcQB+AI11cQB+AI4AAAAAc3EAfgCQAHEAfgA7dXEAfgCTAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKN0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC/dXIAGltMeHN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
+source infos:
+1 items
+C:\Code\Coursera\timeusage\src\test\scala\timeusage\TimeUsageSuite.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW1li6qB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOUM6XENvZGVcQ291cnNlcmFcdGltZXVzYWdlXHRhcmdldFxzY2FsYS0yLjExXHRlc3QtY2xhc3Nlc3QAAS8=

@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mExtractionTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Can read stations file[0m[0m
+[0m[[0minfo[0m] [0m[32m- Can open iterator multiple times[0m[0m
+[0m[[0minfo[0m] [0m[32m- Can read temperatures file[0m[0m
+[0m[[0minfo[0m] [0m[32m- Can convert to celcius[0m[0m
+[0m[[0minfo[0m] [0m[32m- Can compute averages[0m[0m

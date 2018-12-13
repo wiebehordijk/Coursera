@@ -1,0 +1,27 @@
+test
+run
+test
+run
+test
+run
+^Z
+run
+exit
+run
+help
+set mem=3G
+set mem=3000
+exit
+run
+exit
+run
+submit wiebe@wiebehordijk.nl LhXrLAs1OkGKzXVQ
+run
+submit wiebe@wiebehordijk.nl WUTCccdEDpP5fipV
+run
+test
+run
+submit wiebe@wiebehordijk.nl WUTCccdEDpP5fipV
+submit wiebe@wiebehordijk.nl yP8NKcGtWNfH5oo1
+run
+exit

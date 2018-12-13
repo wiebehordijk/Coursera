@@ -1,0 +1,384 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Code\Coursera\timeusage\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+31 items
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$1.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$10.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$11.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$12.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$13.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$14.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$15.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$2.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$3.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4$$anonfun$apply$1.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$5.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$6$$anonfun$apply$2.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$6.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$7.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$8$$anonfun$apply$3.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$8$$anonfun$apply$4.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$8.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$9.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$dfSchema$1.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$row$1.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$1.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$2.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageSummaryTyped$1.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator1$1.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator2$1.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator3$1.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsageRow$.class
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsageRow.class
+binary dependencies:
+6 items
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-catalyst_2.11\2.1.0\spark-catalyst_2.11-2.1.0.jar
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql_2.11\2.1.0\spark-sql_2.11-2.1.0.jar
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.8\scala-reflect-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+31 items
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$1
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$10
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$11
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$12
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$13
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$14
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$15
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$2
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$3
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4$$anonfun$apply$1
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$5
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$6
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$6$$anonfun$apply$2
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$7
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8$$anonfun$apply$3
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8$$anonfun$apply$4
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$9
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$dfSchema$1
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$row$1
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$1
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$2
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageSummaryTyped$1
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$typecreator1$1
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$typecreator2$1
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsage$$typecreator3$1
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsageRow
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage.TimeUsageRow$
+used names:
+204 items
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $m
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $m$untyped
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $typecreator1
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $typecreator2
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $typecreator3
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> $u
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> &&
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> +
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ::
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> <
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> <=
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> <init>
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ==
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ===
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> >=
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> AbstractFunction6
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> AnyRef
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Array
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ClassTag
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Column
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> DataFrame
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Dataset
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Double
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> DoubleType
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> List
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Mirror
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Nil
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> None
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Nothing
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Paths
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Predef
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Product
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Row
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ScalaRunTime
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Serializable
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> SingleType
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Singleton
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> SparkSession
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Statics
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> String
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> StringContext
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> StringType
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> StructType
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ThisType
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TimeUsage
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TimeUsageRow
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Tuple2
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Tuple3
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Type
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TypeCreator
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TypeRef
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TypeTag
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> TypedColumn
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> U
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Unit
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> Universe
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _1
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _2
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _3
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _4
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> _toString
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> age
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ageProjection
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> agg
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> anyHash
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> apache
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> appName
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> apply
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> as
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> asInstanceOf
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> asModule
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> asType
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> augmentString
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> avg
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> builder
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> canBuildFrom
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> classifiedColumns
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> collection
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> columnNames
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> columns
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> config
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> createDataFrame
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> createOrReplaceTempView
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> data
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> dataFrame
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> df
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> dfSchema
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> divide
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> doubleHash
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> drop
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> eq
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> exists
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> expressions
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> file
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> filter
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> finalDf
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> finalizeHash
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> first
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> fromSeq
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> fsPath
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> functions
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> get
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getAs
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getClass
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getClassLoader
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getOrCreate
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> getResource
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> groupBy
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> groupByKey
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> head
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> headerColumns
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> i
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> immutable
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> implicits
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> initDf
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> internal
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> isInstanceOf
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> it
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> java
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> line
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> map
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> mapPartitionsWithIndex
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> materializeClassTag
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> materializeTypeTag
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> mix
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> moduleClass
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> name
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ne
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> newDoubleEncoder
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> newProductEncoder
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> nio
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> org
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> other
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> otherActivities
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> otherColumns
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> otherProjection
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> otherwise
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> package
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> primary
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> primaryNeeds
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> primaryNeedsColumns
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> primaryNeedsProjection
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> r
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> rdd
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> read
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> reduce
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> refArrayOps
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> reflect
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> reificationSupport
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> resource
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> round
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> row
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> runtime
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> runtimeMirror
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> s
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> scala
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> scalalang
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> schema
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> select
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> selectType
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sex
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sexProjection
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> show
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sort
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> spark
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sparkContext
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> split
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> sql
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> startsWith
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> staticClass
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> staticModule
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> staticPackage
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> summaryDf
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> summed
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> tail
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> textFile
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageByLifePeriod
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageGrouped
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageGroupedSqlQuery
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageSummary
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeUsageSummaryDf
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> timeusage
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> to
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> toDouble
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> toString
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> toTypeConstructor
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> toURI
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> typed
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> typedProductIterator
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> types
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> unary_!
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> unchecked
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> universe
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> viewName
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> when
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> where
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> work
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> workColumns
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> workProjection
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> working
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> workingActivities
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> workingStatusProjection
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> ||
+product stamps:
+31 items
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$1.class -> lastModified(1491856980333)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$10.class -> lastModified(1491856980339)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$11.class -> lastModified(1491856980346)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$12.class -> lastModified(1491856980349)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$13.class -> lastModified(1491856980375)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$14.class -> lastModified(1491856980390)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$15.class -> lastModified(1491856980394)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$2.class -> lastModified(1491856980414)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$3.class -> lastModified(1491856980422)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4$$anonfun$apply$1.class -> lastModified(1491856980436)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$4.class -> lastModified(1491856980431)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$5.class -> lastModified(1491856980440)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$6$$anonfun$apply$2.class -> lastModified(1491856980451)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$6.class -> lastModified(1491856980444)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$7.class -> lastModified(1491856980455)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$8$$anonfun$apply$3.class -> lastModified(1491856980471)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$8$$anonfun$apply$4.class -> lastModified(1491856980474)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$8.class -> lastModified(1491856980462)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$9.class -> lastModified(1491856980480)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$dfSchema$1.class -> lastModified(1491856980482)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$row$1.class -> lastModified(1491856980485)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$1.class -> lastModified(1491856980501)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageGroupedTyped$2.class -> lastModified(1491856980508)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$anonfun$timeUsageSummaryTyped$1.class -> lastModified(1491856980512)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator1$1.class -> lastModified(1491856980519)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator2$1.class -> lastModified(1491856980537)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$$typecreator3$1.class -> lastModified(1491856980542)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage$.class -> lastModified(1491856980318)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsage.class -> lastModified(1491856980292)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsageRow$.class -> lastModified(1491856980569)
+C:\Code\Coursera\timeusage\target\scala-2.11\classes\timeusage\TimeUsageRow.class -> lastModified(1491856980560)
+source stamps:
+1 items
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> hash(4c397b11c3589a51c331d36a7ebe584751637eb0)
+binary stamps:
+6 items
+C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar -> lastModified(1474662321010)
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-catalyst_2.11\2.1.0\spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql_2.11\2.1.0\spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar -> lastModified(1457105192000)
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.8\scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+class names:
+6 items
+C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-catalyst_2.11\2.1.0\spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.types.StructType
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar -> org.apache.spark.rdd.RDD
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-sql_2.11\2.1.0\spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.functions$
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar -> scala.Serializable
+C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.8\scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+internal apis:
+1 items
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAOdxRYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCmUd/R0AAZub3RpZnlzcQB+AAwlVS6ndAAEcmVhZHNxAH4ADI6Bp6J0AAd3b3JraW5nc3EAfgAMHr2loHQABHdhaXRzcQB+AAyzoejfdAAOY29weSRkZWZhdWx0JDJzcQB+AAxghNBLdAANJGFzSW5zdGFuY2VPZnNxAH4ADNvIWeh0ABV0aW1lVXNhZ2VHcm91cGVkVHlwZWRzcQB+AAwH6uMwdAAOY29weSRkZWZhdWx0JDVzcQB+AAyTvdiEdAAMVGltZVVzYWdlUm93c3EAfgAM488LynQADHByb2R1Y3RBcml0eXNxAH4ADKUZvu10AAZlcXVhbHNzcQB+AAwPuuCNdAAJVGltZVVzYWdlc3EAfgAMzwVijHQADGFzSW5zdGFuY2VPZnNxAH4ADMjO/KB0ABN0aW1lVXNhZ2VHcm91cGVkU3Fsc3EAfgAMZbYy1XQADHN5bmNocm9uaXplZHNxAH4ADFbWEcx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMIPa6/nQABmZzUGF0aHNxAH4ADB3Zf/x0AAhjYW5FcXVhbHNxAH4ADAPBpdN0ABB0aW1lVXNhZ2VTdW1tYXJ5c3EAfgAMN+ghWHQAA3Jvd3NxAH4ADJDLa/x0ABFjbGFzc2lmaWVkQ29sdW1uc3NxAH4ADJAGzAZ0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOjUbQB0AARtYWluc3EAfgAMp9BW7nQADXByb2R1Y3RQcmVmaXhzcQB+AAw54GjedAADYWdlc3EAfgAM+6WzxnQABHdvcmtzcQB+AAwVhJrudAAJbm90aWZ5QWxsc3EAfgAM9CWMTXQAFXRpbWVVc2FnZUJ5TGlmZVBlcmlvZHNxAH4ADDMxFVF0ABB0aW1lVXNhZ2VHcm91cGVkc3EAfgAMfYre7XQAA3NleHNxAH4ADKspfq10AAxpc0luc3RhbmNlT2ZzcQB+AAzuHGvUdAAGPGluaXQ+c3EAfgAMgP9DX3QABXNwYXJrc3EAfgAM5Z8rlHQAAj09c3EAfgAMOuWC2nQABWNsb25lc3EAfgAMWCW6XXQAGHRpbWVVc2FnZUdyb3VwZWRTcWxRdWVyeXNxAH4ADHAlfdp0AAhkZlNjaGVtYXNxAH4ADF3qxJ90ABV0aW1lVXNhZ2VTdW1tYXJ5VHlwZWRzcQB+AAyZylxudAAOY29weSRkZWZhdWx0JDNzcQB+AAw8PmcddAAEY29weXNxAH4ADIk06910AAh0b1N0cmluZ3NxAH4ADIWCzrh0AAxwcmltYXJ5TmVlZHNzcQB+AAyhfpX8dAACIT1zcQB+AAyXrZYTdAAIZ2V0Q2xhc3NzcQB+AAwufINUdAAOY29weSRkZWZhdWx0JDFzcQB+AAzT3BnsdAAOY29weSRkZWZhdWx0JDZzcQB+AAz1wZzXdAACbmVzcQB+AAybwt8SdAACZXFzcQB+AAxLHOcJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMkLDSmHQABW90aGVyc3EAfgAM07R1SnQAAiMjc3EAfgAMy4H1LHQACGZpbmFsaXplc3EAfgAMXBN6anQADnByb2R1Y3RFbGVtZW50c3EAfgAMZGHy6nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ag3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAE3RpbWV1c2FnZS5UaW1lVXNhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AJsBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AINMAAlpbmhlcml0ZWRxAH4Ag0wAB3BhcmVudHNxAH4Ag3hxAH4AonNxAH4AmwF1cQB+AH4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AIRxAH4AjXVxAH4AjgAAAABzcQB+AJAAcQB+ADt1cQB+AJMAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AoXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AL11cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCqeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCWdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCxWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgChc3EAfgCwdAAFQXJyYXlxAH4AtnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCwdAAGU3RyaW5nc3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHQABGphdmFzcQB+ALx0AARsYW5ncQB+AMFwc3EAfgCbAXVxAH4AfgAAAABwc3EAfgCbAXVxAH4A1QAAAAJzcQB+ALB0AAZPYmplY3RxAH4A2XNxAH4AsHQAA0FueXEAfgC2cHBzcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAAdAAWdGltZXVzYWdlLlRpbWVVc2FnZVJvd3VxAH4AkwAAAAB+cQB+AJV0AAhDbGFzc0RlZnVxAH4AmQAAAABzcQB+AJsBcQB+AKNwc3EAfgCbAXNxAH4ApXNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+ANUAAAAGc3EAfgCwdAAMU2VyaWFsaXphYmxlc3EAfgC0c3EAfgC3dXEAfgC6AAAAAnNxAH4AvHEAfgC/cQB+AMFzcQB+ALBxAH4A+nNxAH4AtHNxAH4At3VxAH4AugAAAANzcQB+ALxxAH4A3XNxAH4AvHQAAmlvcQB+AMFzcQB+ALB0AAdQcm9kdWN0cQB+APtzcQB+ALB0AAZFcXVhbHNxAH4A+3NxAH4AsHEAfgDlc3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHEAfgDdc3EAfgC8cQB+AN9xAH4AwXNxAH4AsHEAfgDncQB+APtwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACXRpbWV1c2FnZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW1ma7m91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA0QzpcQ29kZVxDb3Vyc2VyYVx0aW1ldXNhZ2VcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEw5exHDWJpRwzHTan6+WEdRY36w
+external apis:
+0 items
+source infos:
+1 items
+C:\Code\Coursera\timeusage\src\main\scala\timeusage\TimeUsage.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW1li2AF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANEM6XENvZGVcQ291cnNlcmFcdGltZXVzYWdlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW1mXHlJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANEM6XENvZGVcQ291cnNlcmFcdGltZXVzYWdlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW1ma7m91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANEM6XENvZGVcQ291cnNlcmFcdGltZXVzYWdlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv

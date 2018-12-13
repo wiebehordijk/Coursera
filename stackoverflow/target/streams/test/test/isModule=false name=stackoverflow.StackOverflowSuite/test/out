@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mStackOverflowSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- testObject can be instantiated[0m[0m
+[0m[[0minfo[0m] [0m[32m- GroupedPostings for empty RDD[0m[0m
+[0m[[0minfo[0m] [0m[32m- GroupedPostings for small RDD[0m[0m
+[0m[[0minfo[0m] [0m[32m- scoredPostings for empty RDD[0m[0m
+[0m[[0minfo[0m] [0m[32m- scoredPostings for small RDD[0m[0m
+[0m[[0minfo[0m] [0m[32m- vectorPostings for empty RDD[0m[0m
+[0m[[0minfo[0m] [0m[32m- vectorPostings for small RDD[0m[0m
+[0m[[0minfo[0m] [0m[32m- clusterResults[0m[0m

@@ -1,0 +1,682 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -Xplugin:C:\Users\Wiebe\.ivy2\cache\org.scala-js\scalajs-compiler_2.11.6\jars\scalajs-compiler_2.11.6-0.6.2.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+66 items
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$2$$anonfun$apply$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$2.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$getReferenceExpr$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$getReferenceExpr$2.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Divide$.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Divide.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Expr.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Literal$.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Literal.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Minus$.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Minus.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Plus$.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Plus.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Ref$.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Ref.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Times$.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Times.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial$$anonfun$computeDelta$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial$$anonfun$computeSolutions$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial$.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\NoSignal$$anonfun$$lessinit$greater$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\NoSignal$.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\NoSignal.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$apply$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$computeValue$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$computeValue$2.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Signal.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Var$.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Var.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$colorForRemainingCharsCount$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$tweetRemainingCharsCount$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$2$$anonfun$apply$2.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$2.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$3.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$4.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$5.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$6.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$7.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$8.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$9.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$doubleValueOfInput$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$exprOfInput$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$inputValueSignal$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$parseSimple$1$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setup2ndOrderPolynomial$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setup2ndOrderPolynomial$2.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$2.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupTweetMeasurer$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupTweetMeasurer$2.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$textAreaValueSignal$1.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$.class
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI.class
+binary dependencies:
+12 items
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Users\Wiebe\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> C:\Users\Wiebe\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Wiebe\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Program Files\Java\jre1.8.0_101\lib\rt.jar
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.11\jars\scalajs-dom_sjs0.6_2.11-0.8.0.jar
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\.ivy2\cache\org.scala-js\scalajs-library_2.11\jars\scalajs-library_2.11-0.6.2.jar
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+66 items
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$computeValues$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$computeValues$2
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$computeValues$2$$anonfun$apply$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$getReferenceExpr$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Calculator$$anonfun$getReferenceExpr$2
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Divide
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Divide$
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Expr
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Literal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Literal$
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Minus
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Minus$
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Plus
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Plus$
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Ref
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Ref$
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Times
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator.Times$
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> calculator.Polynomial
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> calculator.Polynomial$
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> calculator.Polynomial$$anonfun$computeDelta$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> calculator.Polynomial$$anonfun$computeSolutions$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> calculator.NoSignal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> calculator.NoSignal$
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> calculator.NoSignal$$anonfun$$lessinit$greater$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$$anonfun$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$$anonfun$apply$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$$anonfun$computeValue$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> calculator.Signal$$anonfun$computeValue$2
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> calculator.Var
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> calculator.Var$
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$$anonfun$colorForRemainingCharsCount$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> calculator.TweetLength$$anonfun$tweetRemainingCharsCount$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$2
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$2$$anonfun$apply$2
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$3
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$4
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$5
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$6
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$7
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$8
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$9
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$doubleValueOfInput$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$exprOfInput$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$inputValueSignal$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$parseSimple$1$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setup2ndOrderPolynomial$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setup2ndOrderPolynomial$2
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$2
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupTweetMeasurer$1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupTweetMeasurer$2
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$textAreaValueSignal$1
+used names:
+330 items
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> &&
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> *
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> +
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> -
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> /
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> <init>
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> ==
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> AbstractFunction1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> AbstractFunction2
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> AnyRef
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Calculator
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Divide
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Double
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Expr
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Literal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Map
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Minus
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> None
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Plus
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Predef
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Product
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Ref
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> ScalaRunTime
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Serializable
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Signal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Statics
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> String
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> Times
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> _1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> _2
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> _hashCode
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> _toString
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> a
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> apply
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> asInstanceOf
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> b
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> calculator
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> canBuildFrom
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> doubleHash
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> eq
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> eval
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> expr
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> exprSignal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> finalizeHash
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> fold
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> get
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> getReferenceExpr
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> immutable
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> isInstanceOf
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> map
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> mix
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> name
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> namedExpressions
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> ne
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> println
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> refName
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> references
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> runtime
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> scala
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> sig
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> toString
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> typedProductIterator
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> unchecked
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> v
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> withFilter
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> ||
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> *
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> +
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> -
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> /
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> <
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> <init>
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> ==
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> AnyRef
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> Double
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> Polynomial
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> Predef
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> Set
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> Signal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> a
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> apply
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> b
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> c
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> calculator
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> delta
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> math
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> package
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> scala
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> solutions
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> sqrt
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> unary_-
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> +
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> -
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> ::
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> <byname>
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> <init>
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> ???
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> AnyRef
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> DynamicVariable
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> Function0
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> List
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> Nil
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> NoSignal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> Nothing
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> Predef
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> Set
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> Signal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> T
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> Unit
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> Var
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> _root_
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> apply
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> assert
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> calculator
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> caller
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> computeValue
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> contains
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> expr
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> foreach
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> immutable
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> myExpr
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> myExpr_=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> myValue
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> myValue_=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> newValue
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> obs
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> observed
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> observed_=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> observers
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> observers_=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> package
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> scala
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> sig
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> unary_!
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> update
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> util
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> value
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> withValue
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> -
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> <init>
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> >=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> AnyRef
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> Character
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> Int
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> Predef
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> Signal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> String
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> TweetLength
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> apply
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> augmentString
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> calculator
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> count
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> countToColor
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> fallbackStringCanBuildFrom
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> init
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> isEmpty
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> isSurrogatePair
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> java
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> lang
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> length
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> remainingCharsCount
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> scala
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> tail
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> text
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> tupled
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> tweetLength
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> tweetText
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> wrapString
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> zip
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> !=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> $conforms
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> &&
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> +
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> <=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> <init>
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> ==
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> >=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> A
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Any
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Array
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Calculator
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> CalculatorUI
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> ClassTag
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> ClearCssClassRegExp
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Double
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Element
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Event
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Expr
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Function0
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> IllegalArgumentException
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> IndexedSeq
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Input
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> JSApp
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> JSStringOps
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> List
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> None
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> NumberFormatException
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Option
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Polynomial
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Predef
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> RegExp
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> SetTimeoutHandle
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Signal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Span
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> String
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> StringContext
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> TextArea
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Throwable
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> TweetLength
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Unit
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> Var
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> _1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> _2
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> _3
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> _root_
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> a
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> aText
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> addEventListener
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> apply
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> asInstanceOf
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> assert
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> augmentString
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> b
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> bText
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> backgroundColor_=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> c
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> calculator
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> canBuildFrom
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> className
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> className_=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> clearTimeout
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> color
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> colorForRemainingCharsCount
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> color_=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> computeDelta
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> computeSolutions
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> computeValues
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> dehighlightTimeout
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> delta
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> deltaArea
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> document
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> dom
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> doubleValueOfInput
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> doubleValues
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> element
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> elementById
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> elementValueSignal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> enableJSStringOps
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> exprOfInput
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> exprs
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> filter
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> forall
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> foreach
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> fromFunction1
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> get
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> getElementById
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> getValue
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> html
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> i
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> id
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> ids
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> immutable
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> input
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> inputValueSignal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> inputs
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> intWrapper
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> isEmpty
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> js
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> jsReplace
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> keySet
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> l
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> lengthCompare
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> map
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> materializeClassTag
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> name
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> namedExpressions
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> namedValues
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> names
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> ne
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> newVal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> onChange
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> op
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> org
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> package
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> parent
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> parentElement
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> parseExpr
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> parseSimple
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> prevVal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> printStackTrace
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> raw
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> refArrayOps
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> remainingCharsArea
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> remainingCount
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> s
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> scala
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> scalajs
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> setTimeout
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> setup2ndOrderPolynomial
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> setupCalculator
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> setupTweetMeasurer
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> solutions
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> solutionsArea
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> span
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> split
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> style
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> text
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> textArea
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> textAreaID
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> textAreaValueSignal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> textContent_=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> th
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> timers
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> toChar
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> toDouble
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> toMap
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> toString
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> trim
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> tweetRemainingCharsCount
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> tweetText
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> unapplySeq
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> unary_!
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> unchecked
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> until
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> update
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> value
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> valueSignal
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> withFilter
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> x
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> zip
+product stamps:
+66 items
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$1.class -> lastModified(1476276720191)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$2$$anonfun$apply$1.class -> lastModified(1476276720201)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$computeValues$2.class -> lastModified(1476276720198)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$getReferenceExpr$1.class -> lastModified(1476276720205)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$$anonfun$getReferenceExpr$2.class -> lastModified(1476276720205)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator$.class -> lastModified(1476276720187)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Calculator.class -> lastModified(1476276720176)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$1.class -> lastModified(1476261408127)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$2$$anonfun$apply$2.class -> lastModified(1476261408136)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$2.class -> lastModified(1476261408132)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$3.class -> lastModified(1476261408140)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$4.class -> lastModified(1476261408145)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$5.class -> lastModified(1476261408149)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$6.class -> lastModified(1476261408154)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$7.class -> lastModified(1476261408158)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$8.class -> lastModified(1476261408162)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$9.class -> lastModified(1476261408166)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$doubleValueOfInput$1.class -> lastModified(1476261408171)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$exprOfInput$1.class -> lastModified(1476261408177)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$inputValueSignal$1.class -> lastModified(1476261408181)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$parseSimple$1$1.class -> lastModified(1476261408185)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setup2ndOrderPolynomial$1.class -> lastModified(1476261408190)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setup2ndOrderPolynomial$2.class -> lastModified(1476261408194)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$1.class -> lastModified(1476261408198)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1476261408212)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$2.class -> lastModified(1476261408216)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1.class -> lastModified(1476261408207)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupCalculator$2.class -> lastModified(1476261408203)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupTweetMeasurer$1.class -> lastModified(1476261408221)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$setupTweetMeasurer$2.class -> lastModified(1476261408225)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$$anonfun$textAreaValueSignal$1.class -> lastModified(1476261408229)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI$.class -> lastModified(1476261408123)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\CalculatorUI.class -> lastModified(1476261408108)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Divide$.class -> lastModified(1476276720205)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Divide.class -> lastModified(1476276720205)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Expr.class -> lastModified(1476276720220)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Literal$.class -> lastModified(1476276720220)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Literal.class -> lastModified(1476276720220)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Minus$.class -> lastModified(1476276720236)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Minus.class -> lastModified(1476276720236)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\NoSignal$$anonfun$$lessinit$greater$1.class -> lastModified(1476276390111)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\NoSignal$.class -> lastModified(1476276390111)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\NoSignal.class -> lastModified(1476276390111)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Plus$.class -> lastModified(1476276720236)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Plus.class -> lastModified(1476276720236)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial$$anonfun$computeDelta$1.class -> lastModified(1476264507543)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial$$anonfun$computeSolutions$1.class -> lastModified(1476264507549)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial$.class -> lastModified(1476264507536)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Polynomial.class -> lastModified(1476264507524)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Ref$.class -> lastModified(1476276720255)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Ref.class -> lastModified(1476276720261)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$1.class -> lastModified(1476276390148)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$apply$1.class -> lastModified(1476276390148)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$computeValue$1.class -> lastModified(1476276390148)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$$anonfun$computeValue$2.class -> lastModified(1476276390148)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Signal$.class -> lastModified(1476276390126)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Signal.class -> lastModified(1476276390147)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Times$.class -> lastModified(1476276720269)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Times.class -> lastModified(1476276720266)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1.class -> lastModified(1476262995389)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$colorForRemainingCharsCount$1.class -> lastModified(1476262995393)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$$anonfun$tweetRemainingCharsCount$1.class -> lastModified(1476262995399)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength$.class -> lastModified(1476262995385)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\TweetLength.class -> lastModified(1476262995379)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Var$.class -> lastModified(1476276390164)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\target\scala-2.11\classes\calculator\Var.class -> lastModified(1476276390164)
+source stamps:
+5 items
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> hash(53362898945de5b164d02a78cd8a5942dfa80e52)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> hash(9ff926bb670a0c38e03788af4bac8a7248cbcc10)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> hash(f5a6296731e63462e7bc526b412634843c732002)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> hash(422033644ab742dff20ba1bef4e8cf4e471bbfed)
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> hash(5283065eab3ad32c108798e2226fd8103e0a21c6)
+binary stamps:
+4 items
+C:\Program Files\Java\jre1.8.0_101\lib\rt.jar -> lastModified(1474662337041)
+C:\Users\Wiebe\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.11\jars\scalajs-dom_sjs0.6_2.11-0.8.0.jar -> lastModified(1422870960000)
+C:\Users\Wiebe\.ivy2\cache\org.scala-js\scalajs-library_2.11\jars\scalajs-library_2.11-0.6.2.jar -> lastModified(1426583940000)
+C:\Users\Wiebe\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> lastModified(1424912460000)
+class names:
+4 items
+C:\Program Files\Java\jre1.8.0_101\lib\rt.jar -> java.lang.Object
+C:\Users\Wiebe\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.11\jars\scalajs-dom_sjs0.6_2.11-0.8.0.jar -> org.scalajs.dom.raw.Event
+C:\Users\Wiebe\.ivy2\cache\org.scala-js\scalajs-library_2.11\jars\scalajs-library_2.11-0.6.2.jar -> scala.scalajs.js.JSApp
+C:\Users\Wiebe\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> scala.Serializable
+internal apis:
+5 items
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDXmUDVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAK3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLZ2ElR0AA1jb21wdXRlVmFsdWVzc3EAfgAMOU4zbHQABm5vdGlmeXNxAH4ADBtJ0QJ0AARuYW1lc3EAfgAMtgS3dnQABHdhaXRzcQB+AAyknsqEdAAOY29weSRkZWZhdWx0JDJzcQB+AAyo0Gq8dAANJGFzSW5zdGFuY2VPZnNxAH4ADHA4H8N0AAxwcm9kdWN0QXJpdHlzcQB+AAzas7drdAAGZXF1YWxzc3EAfgAMvUyfn3QADGFzSW5zdGFuY2VPZnNxAH4ADBfuOBd0AARFeHByc3EAfgAM7UPdenQABkRpdmlkZXNxAH4ADEVs9BN0AAxzeW5jaHJvbml6ZWRzcQB+AAzT/0BzdAABYXNxAH4ADJnIAVp0AA0kaXNJbnN0YW5jZU9mc3EAfgAMJvJ72XQAB0xpdGVyYWxzcQB+AAzHPbQ7dAAIY2FuRXF1YWxzcQB+AAzZusIGdAANcHJvZHVjdFByZWZpeHNxAH4ADIWuK7B0AAlub3RpZnlBbGxzcQB+AAxOfpeddAAEUGx1c3NxAH4ADOeNDyp0AAxpc0luc3RhbmNlT2ZzcQB+AAzWsyLfdAAEZXZhbHNxAH4ADHkIfsN0AAVNaW51c3NxAH4ADCWCcJB0AAF2c3EAfgAM+VF4ynQABjxpbml0PnNxAH4ADPkCh8Z0AAFic3EAfgAMERdYK3QAAj09c3EAfgAMQgLe23QABWNsb25lc3EAfgAM3Xx/2XQAEGdldFJlZmVyZW5jZUV4cHJzcQB+AAxINSqldAAEY29weXNxAH4ADH7jdjl0AAh0b1N0cmluZ3NxAH4ADGH+8UV0AAIhPXNxAH4ADPI4LSt0AAVUaW1lc3NxAH4ADCSmfld0AAhnZXRDbGFzc3NxAH4ADNm8C9R0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADCFQS+N0AAJuZXNxAH4ADKRoYRF0AAJlcXNxAH4ADA7/EJ10AApDYWxjdWxhdG9yc3EAfgAMev96ZHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADN59SpJ0AAIjI3NxAH4ADH33r1l0AAhmaW5hbGl6ZXNxAH4ADOUfyLN0AANSZWZzcQB+AAxzV2UOdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxwrCDddAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAIc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBteHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAJdAAPY2FsY3VsYXRvci5FeHBydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCGeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCFAHBzcQB+AIpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AbUwACWluaGVyaXRlZHEAfgBtTAAHcGFyZW50c3EAfgBteHEAfgCOc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AI10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AI1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AKp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKtzcQB+AJ50AANBbnlzcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqdAAFc2NhbGFxAH4AsXNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegR0ABJjYWxjdWxhdG9yLkxpdGVyYWx1cQB+AH0AAAAAcQB+AIF1cQB+AIMAAAAAc3EAfgCFAHBzcQB+AIpxAH4Aj3NxAH4AhQBwc3EAfgCKc3EAfgCSc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AJwAAAAHc3EAfgCedAAMU2VyaWFsaXphYmxlc3EAfgCic3EAfgCldXEAfgCoAAAAAnNxAH4AqnEAfgC4cQB+ALFzcQB+AJ5xAH4AznNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4ArXNxAH4AqnQAAmlvcQB+ALFzcQB+AJ50AAdQcm9kdWN0cQB+AM9zcQB+AJ50AAZFcXVhbHNxAH4Az3NxAH4AnnQABEV4cHJzcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqdAAKY2FsY3VsYXRvcnEAfgCxc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+AK1zcQB+AKpxAH4Ar3EAfgCxc3EAfgCecQB+ALNxAH4Az3NxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegR0AA5jYWxjdWxhdG9yLlJlZnVxAH4AfQAAAABxAH4AgXVxAH4AgwAAAABzcQB+AIUAcHNxAH4AinEAfgCPc3EAfgCFAHBzcQB+AIpzcQB+AJJzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AnAAAAAdzcQB+AJ5xAH4AznNxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKpxAH4AuHEAfgCxc3EAfgCecQB+AM5zcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+AK1zcQB+AKp0AAJpb3EAfgCxc3EAfgCecQB+ANtxAH4BAXNxAH4AnnQABkVxdWFsc3EAfgEBc3EAfgCecQB+AN9zcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqdAAKY2FsY3VsYXRvcnEAfgCxc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+AK1zcQB+AKpxAH4Ar3EAfgCxc3EAfgCecQB+ALNxAH4BAXNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegR0AA9jYWxjdWxhdG9yLlBsdXN1cQB+AH0AAAAAcQB+AIF1cQB+AIMAAAAAc3EAfgCFAHBzcQB+AIpxAH4Aj3NxAH4AhQBwc3EAfgCKc3EAfgCSc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AJwAAAAHc3EAfgCecQB+AM5zcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqcQB+ALhxAH4AsXNxAH4AnnEAfgDOc3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnEAfgCtc3EAfgCqdAACaW9xAH4AsXNxAH4AnnEAfgDbcQB+ATFzcQB+AJ50AAZFcXVhbHNxAH4BMXNxAH4AnnEAfgDfc3EAfgCic3EAfgCldXEAfgCoAAAAAnNxAH4AqnQACmNhbGN1bGF0b3JxAH4AsXNxAH4AnnEAfgChc3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnEAfgCtc3EAfgCqcQB+AK9xAH4AsXNxAH4AnnEAfgCzcQB+ATFzcQB+AGpxAH4Ad3VxAH4AeAAAAABzcQB+AHoEdAAQY2FsY3VsYXRvci5NaW51c3VxAH4AfQAAAABxAH4AgXVxAH4AgwAAAABzcQB+AIUAcHNxAH4AinEAfgCPc3EAfgCFAHBzcQB+AIpzcQB+AJJzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AnAAAAAdzcQB+AJ5xAH4AznNxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKpxAH4AuHEAfgCxc3EAfgCecQB+AM5zcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+AK1zcQB+AKp0AAJpb3EAfgCxc3EAfgCecQB+ANtxAH4BYXNxAH4AnnQABkVxdWFsc3EAfgFhc3EAfgCecQB+AN9zcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqdAAKY2FsY3VsYXRvcnEAfgCxc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+AK1zcQB+AKpxAH4Ar3EAfgCxc3EAfgCecQB+ALNxAH4BYXNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegR0ABBjYWxjdWxhdG9yLlRpbWVzdXEAfgB9AAAAAHEAfgCBdXEAfgCDAAAAAHNxAH4AhQBwc3EAfgCKcQB+AI9zcQB+AIUAcHNxAH4AinNxAH4AknNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgCcAAAAB3NxAH4AnnEAfgDOc3EAfgCic3EAfgCldXEAfgCoAAAAAnNxAH4AqnEAfgC4cQB+ALFzcQB+AJ5xAH4AznNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4ArXNxAH4AqnQAAmlvcQB+ALFzcQB+AJ5xAH4A23EAfgGRc3EAfgCedAAGRXF1YWxzcQB+AZFzcQB+AJ5xAH4A33NxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKp0AApjYWxjdWxhdG9ycQB+ALFzcQB+AJ5xAH4AoXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4ArXNxAH4AqnEAfgCvcQB+ALFzcQB+AJ5xAH4As3EAfgGRc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6BHQAEWNhbGN1bGF0b3IuRGl2aWRldXEAfgB9AAAAAHEAfgCBdXEAfgCDAAAAAHNxAH4AhQBwc3EAfgCKcQB+AI9zcQB+AIUAcHNxAH4AinNxAH4AknNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgCcAAAAB3NxAH4AnnEAfgDOc3EAfgCic3EAfgCldXEAfgCoAAAAAnNxAH4AqnEAfgC4cQB+ALFzcQB+AJ5xAH4AznNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4ArXNxAH4AqnQAAmlvcQB+ALFzcQB+AJ5xAH4A23EAfgHBc3EAfgCedAAGRXF1YWxzcQB+AcFzcQB+AJ5xAH4A33NxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKp0AApjYWxjdWxhdG9ycQB+ALFzcQB+AJ5xAH4AoXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4ArXNxAH4AqnEAfgCvcQB+ALFzcQB+AJ5xAH4As3EAfgHBc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6AHQAFWNhbGN1bGF0b3IuQ2FsY3VsYXRvcnVxAH4AfQAAAAB+cQB+AH90AAZNb2R1bGV1cQB+AIMAAAAAc3EAfgCFAHBzcQB+AIpxAH4Aj3NxAH4AhQBwc3EAfgCKc3EAfgCSc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AJwAAAACc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+AK1zcQB+AKpxAH4Ar3EAfgCxc3EAfgCecQB+ALNzcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqcQB+ALhxAH4AsXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmNhbGN1bGF0b3JzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVe48w2TdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUUzYomJRd5bFk0Cp4zYpZQt+oDlI=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBmvcoLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPHdxwp0AAZub3RpZnlzcQB+AAwfUd80dAAJc29sdXRpb25zc3EAfgAMj4iyGnQABHdhaXRzcQB+AAwhsmxXdAANJGFzSW5zdGFuY2VPZnNxAH4ADGmvs6x0AAZlcXVhbHNzcQB+AAwxdFs9dAAMYXNJbnN0YW5jZU9mc3EAfgAM++7ccnQADHN5bmNocm9uaXplZHNxAH4ADKJvcxx0AA0kaXNJbnN0YW5jZU9mc3EAfgAM1G0kq3QADGNvbXB1dGVEZWx0YXNxAH4ADGBwNtJ0AAlub3RpZnlBbGxzcQB+AAxm/k/UdAAQY29tcHV0ZVNvbHV0aW9uc3NxAH4ADDXtJHR0AAxpc0luc3RhbmNlT2ZzcQB+AAzJK/ZRdAACPT1zcQB+AAx1JMm7dAAFY2xvbmVzcQB+AAzBFNwJdAAKUG9seW5vbWlhbHNxAH4ADJCEBqN0AAVkZWx0YXNxAH4ADH+v8hd0AAh0b1N0cmluZ3NxAH4ADKRWD7B0AAIhPXNxAH4ADPLjoyZ0AAhnZXRDbGFzc3NxAH4ADMFKsH90AAJuZXNxAH4ADMhbJiV0AAJlcXNxAH4ADO7p4dp0AAIjI3NxAH4ADApbsdV0AAhmaW5hbGl6ZXNxAH4ADEJNNil0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABVjYWxjdWxhdG9yLlBvbHlub21pYWx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZnNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY2FsY3VsYXRvcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7g4tbx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABZQzpcVXNlcnNcV2llYmVcRG9jdW1lbnRzXE9wbGVpZGluZ2VuXENvdXJzZXJhXGNhbGN1bGF0b3Jcd2ViLXVpXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSf+Sa7ZwoMOOA3iK9LrIpySMvMEA==
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCcrnOcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMgm1u10AAlvYnNlcnZlcnNzcQB+AAwNwvZRdAAGbm90aWZ5c3EAfgAMJ20wkXQABHdhaXRzcQB+AAzXche6dAANJGFzSW5zdGFuY2VPZnNxAH4ADEkSKEl0AANWYXJzcQB+AAzYZGUgdAAGU2lnbmFsc3EAfgAMPZGWgHQABmVxdWFsc3NxAH4ADH9wuWp0AAxhc0luc3RhbmNlT2ZzcQB+AAySrf1cdAAMc3luY2hyb25pemVkc3EAfgAMfl2vW3QADSRpc0luc3RhbmNlT2ZzcQB+AAzXskNIdAAJbm90aWZ5QWxsc3EAfgAMiJsE43QADGlzSW5zdGFuY2VPZnNxAH4ADOPjrVR0AAhOb1NpZ25hbHNxAH4ADL0t7AN0AAY8aW5pdD5zcQB+AAx0QuKGdAAFYXBwbHlzcQB+AAwq2znudAACPT1zcQB+AAzcW5MndAAFY2xvbmVzcQB+AAyuIZRFdAAIdG9TdHJpbmdzcQB+AAygwr9edAACIT1zcQB+AAzCJgP9dAAMY29tcHV0ZVZhbHVlc3EAfgAMJxW6pXQACGdldENsYXNzc3EAfgAMolWCoHQABnVwZGF0ZXNxAH4ADMH9GTF0AAJuZXNxAH4ADKU5W790AAZteUV4cHJzcQB+AAyp3IITdAAHbXlWYWx1ZXNxAH4ADO355410AAJlcXNxAH4ADHj8BPZ0AAIjI3NxAH4ADLuXmDB0AAhmaW5hbGl6ZXNxAH4ADJp7oCh0AAZjYWxsZXJzcQB+AAwBJX6TdAAIaGFzaENvZGVzcQB+AAwWZUQkdAAIb2JzZXJ2ZWRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAFc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAARY2FsY3VsYXRvci5TaWduYWx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4AWkwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AFdMAAp1cHBlckJvdW5kcQB+AGhMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AGAAAAAAdAATY2FsY3VsYXRvci5TaWduYWwuVHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB8dXEAfgBlAAAAAHNxAH4AbXQAA0FueXEAfgB1fnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUludmFyaWFudH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhxAH4AhXQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AG9wc3EAfgCNAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBVTAAJaW5oZXJpdGVkcQB+AFVMAAdwYXJlbnRzcQB+AFV4cQB+AHBzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcQB+AG10AAZPYmplY3RzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7dAAEamF2YXNxAH4Ae3QABGxhbmdxAH4AgHNxAH4AbXEAfgCDc3EAfgBzc3EAfgB2dXEAfgB5AAAAAnNxAH4Ae3EAfgB+cQB+AIBwcHNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgB0AA5jYWxjdWxhdG9yLlZhcnVxAH4AZQAAAAFzcQB+AGd1cQB+AGAAAAAAdAAQY2FsY3VsYXRvci5WYXIuVHEAfgBxdXEAfgBlAAAAAHEAfgCCcQB+AIZxAH4AiXVxAH4AiwAAAABzcQB+AI0BcQB+AJNwc3EAfgCNAXNxAH4AlXNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AJwAAAADc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBuWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBvc3EAfgBtdAAGU2lnbmFsc3EAfgBzc3EAfgB2dXEAfgB5AAAAAnNxAH4Ae3QACmNhbGN1bGF0b3JxAH4AgHVxAH4AnAAAAAFzcgAWeHNidGkuYXBpLlBhcmFtZXRlclJlZj/Y4zkALHOwAgABTAACaWRxAH4ADXhxAH4Ab3QAEGNhbGN1bGF0b3IuVmFyLlRzcQB+AG1xAH4An3NxAH4Ac3NxAH4AdnVxAH4AeQAAAANzcQB+AHtxAH4ApHNxAH4Ae3EAfgCmcQB+AIBzcQB+AG1xAH4Ag3NxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHtxAH4AfnEAfgCAcHBzcQB+AFJxAH4AX3VxAH4AYAAAAABzcQB+AGIAdAAOY2FsY3VsYXRvci5WYXJ1cQB+AGUAAAAAfnEAfgCIdAAGTW9kdWxldXEAfgCLAAAAAHNxAH4AjQFxAH4Ak3BzcQB+AI0Bc3EAfgCVc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVxAH4AnAAAAAJzcQB+AG1xAH4An3NxAH4Ac3NxAH4AdnVxAH4AeQAAAANzcQB+AHtxAH4ApHNxAH4Ae3EAfgCmcQB+AIBzcQB+AG1xAH4Ag3NxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHtxAH4AfnEAfgCAcHBzcQB+AFJxAH4AX3VxAH4AYAAAAABzcQB+AGIAdAATY2FsY3VsYXRvci5Ob1NpZ25hbHVxAH4AZQAAAABxAH4A3XVxAH4AiwAAAABzcQB+AI0BcQB+AJNwc3EAfgCNAXNxAH4AlXNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AJwAAAADc3EAfgC/c3EAfgBtdAAGU2lnbmFsc3EAfgBzc3EAfgB2dXEAfgB5AAAAAnNxAH4Ae3QACmNhbGN1bGF0b3JxAH4AgHVxAH4AnAAAAAFzcQB+AG1xAH4AcnNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHtxAH4AfnEAfgCAc3EAfgBtcQB+AJ9zcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AKRzcQB+AHtxAH4ApnEAfgCAc3EAfgBtcQB+AINxAH4BDXBwc3EAfgBScQB+AF91cQB+AGAAAAAAc3EAfgBiAHQAEWNhbGN1bGF0b3IuU2lnbmFsdXEAfgBlAAAAAHEAfgDddXEAfgCLAAAAAHNxAH4AjQFxAH4Ak3BzcQB+AI0Bc3EAfgCVc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVxAH4AnAAAAAJzcQB+AG1xAH4An3NxAH4Ac3NxAH4AdnVxAH4AeQAAAANzcQB+AHtxAH4ApHNxAH4Ae3EAfgCmcQB+AIBzcQB+AG1xAH4Ag3NxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHtxAH4AfnEAfgCAcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjYWxjdWxhdG9yc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFXuO36RnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFlDOlxVc2Vyc1xXaWViZVxEb2N1bWVudHNcT3BsZWlkaW5nZW5cQ291cnNlcmFcY2FsY3VsYXRvclx3ZWItdWlcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPWmKWcx5jRi57xSa0EmNIQ8cyAC
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBSyflxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA8DT5F0AAZub3RpZnlzcQB+AAw36CLWdAAYdHdlZXRSZW1haW5pbmdDaGFyc0NvdW50c3EAfgAM1a3kwXQABHdhaXRzcQB+AAxdgwScdAANJGFzSW5zdGFuY2VPZnNxAH4ADFkburh0AAZlcXVhbHNzcQB+AAytaFxZdAAMYXNJbnN0YW5jZU9mc3EAfgAM3f93o3QAG2NvbG9yRm9yUmVtYWluaW5nQ2hhcnNDb3VudHNxAH4ADL4frMB0AAxzeW5jaHJvbml6ZWRzcQB+AAzJlZiHdAANJGlzSW5zdGFuY2VPZnNxAH4ADLHPOyp0AA5NYXhUd2VldExlbmd0aHNxAH4ADK6d1K50AAlub3RpZnlBbGxzcQB+AAweJIi7dAAMaXNJbnN0YW5jZU9mc3EAfgAMS2PSM3QAAj09c3EAfgAMUvHWCXQABWNsb25lc3EAfgAMA3TQyXQADGNvdW50VG9Db2xvcnNxAH4ADFD5YHV0AAh0b1N0cmluZ3NxAH4ADIaC83h0AAIhPXNxAH4ADBPXKh90AAt0d2VldExlbmd0aHNxAH4ADP+qAGp0AAhnZXRDbGFzc3NxAH4ADHN4K1F0AAJuZXNxAH4ADFJjaBd0AAtUd2VldExlbmd0aHNxAH4ADPqG9HN0AAJlcXNxAH4ADKIwGZR0AAIjI3NxAH4ADL2MNA90AAhmaW5hbGl6ZXNxAH4ADF/Jrvt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABZjYWxjdWxhdG9yLlR3ZWV0TGVuZ3RodXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBhAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGhzcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCAdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBc3EAfgB0dAADQW55c3EAfgB4c3EAfgB7dXEAfgB+AAAAAnNxAH4AgHQABXNjYWxhcQB+AIdwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmNhbGN1bGF0b3JzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVe4IaKLdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUQiAzZEq3Qt/yC6G+9OjPTkcbv+0=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBf74T9AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJSW6lZ0AAZub3RpZnlzcQB+AAychWa8dAASZWxlbWVudFZhbHVlU2lnbmFsc3EAfgAMYTr6+3QACXBhcnNlRXhwcnNxAH4ADMJVWLR0ABdzZXR1cDJuZE9yZGVyUG9seW5vbWlhbHNxAH4ADELWSap0AAR3YWl0c3EAfgAMWHI9jXQADSRhc0luc3RhbmNlT2ZzcQB+AAy4U5qjdAAGZXF1YWxzc3EAfgAMvkEXPHQADGFzSW5zdGFuY2VPZnNxAH4ADBCS2J10AAxzeW5jaHJvbml6ZWRzcQB+AAzHQ/r5dAANJGlzSW5zdGFuY2VPZnNxAH4ADIHV9Ft0ABJkb3VibGVWYWx1ZU9mSW5wdXRzcQB+AAzXvsB+dAAEbWFpbnNxAH4ADDMh20p0AAlub3RpZnlBbGxzcQB+AAzcJIpLdAAMaXNJbnN0YW5jZU9mc3EAfgAMCY/3fnQAEnNldHVwVHdlZXRNZWFzdXJlcnNxAH4ADOYXZ5J0ABN0ZXh0QXJlYVZhbHVlU2lnbmFsc3EAfgAMgxl1PXQADENhbGN1bGF0b3JVSXNxAH4ADHrOkEZ0AAI9PXNxAH4ADJHPxjx0AAVjbG9uZXNxAH4ADN8nd2J0AA9zZXR1cENhbGN1bGF0b3JzcQB+AAyG/ri9dAALZXhwck9mSW5wdXRzcQB+AAzkgc6wdAAIdG9TdHJpbmdzcQB+AAwOBXURdAACIT1zcQB+AAyaZGAZdAAQaW5wdXRWYWx1ZVNpZ25hbHNxAH4ADK31QRt0AAhnZXRDbGFzc3NxAH4ADB2ENkN0AAtlbGVtZW50QnlJZHNxAH4ADDdtlt10ABNDbGVhckNzc0NsYXNzUmVnRXhwc3EAfgAMUA6LCnQAAm5lc3EAfgAMsqyKXXQAAmVxc3EAfgAM2bHIpHQAFiRqcyRleHBvcnRlZCRtZXRoJG1haW5zcQB+AAyFisyXdAACIyNzcQB+AAxyiSI4dAAIZmluYWxpemVzcQB+AAwhWNWDdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAXY2FsY3VsYXRvci5DYWxjdWxhdG9yVUl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgByeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBxAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBZTAAJaW5oZXJpdGVkcQB+AFlMAAdwYXJlbnRzcQB+AFl4cQB+AHpzcQB+AHEBdXEAfgBUAAAAAHBzcQB+AHEBdXEAfgBUAAAAAHBzcQB+AHEBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB5dAAFSlNBcHBzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3EAfgCSdAAHc2NhbGFqc3NxAH4AknQAAmpzc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJNzcQB+AIZ0AAZPYmplY3RzcQB+AIpzcQB+AI11cQB+AJAAAAADc3EAfgCSdAAEamF2YXNxAH4AknQABGxhbmdxAH4Am3NxAH4AhnQAA0FueXNxAH4AinNxAH4AjXVxAH4AkAAAAAJzcQB+AJJxAH4AlXEAfgCbcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjYWxjdWxhdG9yc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFXuAlFunVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFlDOlxVc2Vyc1xXaWViZVxEb2N1bWVudHNcT3BsZWlkaW5nZW5cQ291cnNlcmFcY2FsY3VsYXRvclx3ZWItdWlcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFKDBl6rOtMsEIeY4iJv2BA+CiHG
+external apis:
+0 items
+source infos:
+5 items
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Calculator.scala -> 
+AAAAAAAAAAA=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Polynomial.scala -> 
+AAAAAAAAAAA=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\Signal.scala -> 
+AAAAAAAAAAA=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\src\main\scala\calculator\TweetLength.scala -> 
+AAAAAAAAAAA=
+C:\Users\Wiebe\Documents\Opleidingen\Coursera\calculator\web-ui\src\main\scala\calculator\CalculatorUI.scala -> 
+AAAAAAAAAAA=
+compilations:
+41 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7gJRbp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7gbZXN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7ghoot1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7gyLih1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7g1bWR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7g4tbx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7hMYAx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7hahUN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7hldFd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7hmY+R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7hnTPJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7hqJgN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7h8YJJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7iGssV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7iHY4R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7iKwcB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7iNEep1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7iOmG91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7iPPgd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7iQHRJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7iT76B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7iUXAV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7iYElJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7iZ5g51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7icOBJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7icv/h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7iiVN51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7irwaV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7isOnl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7is92V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7itw391cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7i3wMp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7i+Ki51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7i+9jZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7jFCg11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7jK2tx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7jLfIJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7jURYl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7jt+kZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7jvOGd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+40 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7jzDZN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUM6XFVzZXJzXFdpZWJlXERvY3VtZW50c1xPcGxlaWRpbmdlblxDb3Vyc2VyYVxjYWxjdWxhdG9yXHdlYi11aVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==

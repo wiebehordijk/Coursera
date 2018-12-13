@@ -1,0 +1,5 @@
+runMain reductions.ParallelCountChangeRunner
+runMain reductions.ParallelParenthesesBalancingRunner
+runMain reductions.LineOfSightRunner
+submit wiebe@wiebehordijk.nl 69GT5EAeOWRNguWu
+runMain reductions.ParallelParenthesesBalancingRunner

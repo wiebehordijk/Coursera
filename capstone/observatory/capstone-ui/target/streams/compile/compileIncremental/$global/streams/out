@@ -1,0 +1,76 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Signal.scala, C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Interaction2.scala, C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\leaflet\L.scala, C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\observatory\JSMain.scala, C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\models.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Signal.scala, C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Interaction2.scala, C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\leaflet\L.scala, C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\observatory\JSMain.scala, C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\models.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Signal.scala, C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Interaction2.scala, C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\leaflet\L.scala, C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\observatory\JSMain.scala, C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\models.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 38a8b588, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-Xplugin:C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-js\scalajs-compiler_2.11.8\0.6.11\scalajs-compiler_2.11.8-0.6.11.jar[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_101\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_101\jre\classes;C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\target\scala-2.11\classes;C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-js\scalajs-dom_sjs0.6_2.11\0.9.1\scalajs-dom_sjs0.6_2.11-0.9.1.jar;C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\com\lihaoyi\sourcecode_sjs0.6_2.11\0.1.1\sourcecode_sjs0.6_2.11-0.1.1.jar;C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-js\scalajs-library_2.11\0.6.11\scalajs-library_2.11-0.6.11.jar;C:\Users\Wiebe\.coursier\cache\v1\https\repo1.maven.org\maven2\com\lihaoyi\scalatags_sjs0.6_2.11\0.6.0\scalatags_sjs0.6_2.11-0.6.0.jar[0m
+[0m[[33mwarn[0m] [0mthere was one feature warning; re-run with -feature for details[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 5.299523955 s[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\observatory\JSMain.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\observatory\JSMain.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\observatory\JSMain.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\observatory\JSMain.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\observatory\JSMain.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	bytePixelStyle, intStyle, floatStyle, ApplyTags, stringStyleX, doublePixelStyle, doubleFrag, shortFrag, longPixelStyle, shortAttr, longAttr, OptionNode, stringPixelStyle, Byte2CssNumber, stringAttr, booleanPixelStyle, Long2CssNumber, doubleAttr, longStyle, Short2CssNumber, ArrayNode, booleanStyle, SeqFrag, OptionFrag, booleanAttr, stringAttrX, floatAttr, ClsModifier, bindJsAny, signalFrag, bindNode, intFrag, SeqNode, shortStyle, stringStyle, byteStyle, Double2CssNumber, StyleFrag, byteAttr, Int2CssNumber, longFrag, byteFrag, doubleStyle, shortPixelStyle, Float2CssNumber, ArrayFrag, intPixelStyle, stringFrag, stringPixelStyleX, floatFrag, intAttr, bindJsAnyLike, UnitFrag, floatPixelStyle.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\leaflet\L.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\leaflet\L.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\leaflet\L.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\leaflet\L.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\leaflet\L.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	LatLng, notify, x, getPixelBounds, hasOwnProperty, wait, propertyIsEnumerable, copy$default$2, $asInstanceOf, Control, valueOf, map, productArity, equals, Event, MapOptions, y, ControlFactory, getBottomLeft, asInstanceOf, Point, zoomControl, ImageLayer, setView, synchronized, latLngBounds, toLocaleString, $isInstanceOf, Layer, latLng, addTo, canEqual, LatLngBounds, productPrefix, getTopRight, notifyAll, TileLayer, Map, isInstanceOf, addControl, Bounds, <init>, invalidateSize, on, L, remove, maxZoom, ==, clone, $init$, Zoom, setUrl, copy, position, isPrototypeOf, toString, control, !=, getClass, getPixelWorldBounds, copy$default$1, ne, imageOverlay, tileLayer, zoom, setImage, eq, productIterator, ZoomOptions, ##, finalize, productElement, hashCode, getBounds.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\observatory\JSMain.scala: Set(map, Event, MapOptions, asInstanceOf, setView, Layer, latLng, addTo, addControl, <init>, invalidateSize, L, ==, setUrl, position, toString, control, ne, tileLayer, zoom, ZoomOptions)[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\models.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\models.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\models.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\models.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\models.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, Location, wait, copy$default$2, $asInstanceOf, productArity, equals, blue, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, green, isInstanceOf, <init>, ==, clone, copy$default$3, copy, lon, toString, !=, getClass, copy$default$1, Color, ne, eq, productIterator, lat, red, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\observatory\JSMain.scala: Set(blue, asInstanceOf, green, <init>, ==, toString, ne, red)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Interaction2.scala: Set(asInstanceOf, isInstanceOf, <init>, ==, toString, Color, eq)[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Signal.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Signal.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Signal.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Signal.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Signal.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	observers, notify, wait, $asInstanceOf, Var, Signal, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, NoSignal, <init>, apply, ==, clone, toString, !=, computeValue, getClass, update, ne, myExpr, myValue, eq, ##, finalize, caller, hashCode, observed.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\observatory\JSMain.scala: Set(Var, Signal, asInstanceOf, <init>, apply, ==, toString, update, ne)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Interaction2.scala: Set(Signal, asInstanceOf, isInstanceOf, <init>, apply, ==, toString, eq)[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Interaction2.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Interaction2.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Interaction2.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Interaction2.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\src\main\scala\observatory\Interaction2.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, layerUrlPattern, copy$default$2, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, yearBounds, $isInstanceOf, Layer, colorScale, TemperatureColors, canEqual, LayerName, bounds, productPrefix, notifyAll, readResolve, yearSelection, Deviations, isInstanceOf, <init>, id, ==, caption, clone, layerName, copy$default$3, availableLayers, copy, toString, Interaction2, !=, Temperatures, getClass, copy$default$1, ne, DeviationColors, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of C:\Users\Wiebe\OneDrive\Code\Coursera\capstone\observatory\capstone-ui\src\main\scala\observatory\JSMain.scala: Set(layerUrlPattern, asInstanceOf, yearBounds, Layer, colorScale, yearSelection, <init>, ==, caption, layerName, availableLayers, toString, Interaction2, ne)[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
