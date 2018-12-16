@@ -1,2 +1,5 @@
 *.class
 *.log
+**/out
+**/out/**
+**/__pycache__
