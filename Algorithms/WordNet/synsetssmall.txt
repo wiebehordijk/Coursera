@@ -1,0 +1,6 @@
+0,bla gesprek,
+1,hallo hoi,
+2,goedemiddag,
+3,begroeting,
+4,beleefdheid,
+5,uiting woorden
