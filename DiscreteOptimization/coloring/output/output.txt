@@ -1,0 +1,22 @@
+4 0
+3 1 0 2 2 1 0 1 2 1 1 0 1 1 2 1 1 0 0 2 1 3 2 3 0 0 1 2 0 2 2 2 0 2 0 1 1 1 1 0 0 0 1 3 2 0 3 0 2 1 
+** Choco 4.10.0 (2018-12) : Constraint Programming Solver, Copyright (c) 2010-2018
+- Model[Graph coloring] features:
+	Variables : 52
+	Constraints : 134
+	Building time : 0,052s
+	User-defined search strategy : yes
+	Complementary search strategy : no
+- Complete search - 1 solution found.
+	Model[Graph coloring]
+	Solutions: 1
+	MINIMIZE IV_2 = 3,
+	Building time : 0,052s
+	Resolution time : 0,033s
+	Nodes: 54 (1.645,2 n/s) 
+	Backtracks: 107
+	Backjumps: 0
+	Fails: 53
+	Restarts: 0
+4 1
+3 1 0 2 2 1 0 1 2 1 1 0 1 1 2 1 1 0 0 2 1 3 2 3 0 0 1 2 0 2 2 2 0 2 0 1 1 1 1 0 0 0 1 3 2 0 3 0 2 1 
