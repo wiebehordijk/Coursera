@@ -15,6 +15,7 @@ import java.util.stream.Stream;
 
 public class Solver {
 
+    private final static boolean SUBMISSION = false;
     private static Graph graph;
     private static int[] colors;
     private static int numColors;
@@ -66,77 +67,54 @@ public class Solver {
     private static void SolveChoco2() {
         Model model = new Model("Graph coloring");
         int maxX = maxDegree(graph) + 1;
-        IntVar[] vertices = model.intVarArray(graph.V(), 0, maxX, false);
 
+        // Define variables
+        IntVar[] vertices = model.intVarArray(graph.V(), 0, maxX, false);
         IntVar maxColor = model.intVar(1, maxX);
         model.max(maxColor, vertices).post();
 
-        IntVar[] ordered = OrderByDegree(graph, vertices);
+        // Constraints from the graph
         for (int v = 0; v < graph.V(); v++) {
             for (int w: graph.adj(v)) {
                 if (w > v)
                     model.arithm(vertices[v], "!=", vertices[w]).post();
             }
-
-            // Maximum for a vertex is the current maximum plus 1
-            model.arithm(vertices[v], "<=", model.intOffsetView(maxColor, 1));
         }
 
+        // Break symmetry with extra constraints: node with highest degree must get color 0, etc
+        IntVar[] ordered = OrderByDegree(graph, vertices);
+        for (int i = 0; i < graph.V(); i++) {
+            IntVar v = ordered[i];
+            model.arithm(v, "<=", i).post();
+        }
+
+        // Set objective and search strategy
         model.setObjective(Model.MINIMIZE, maxColor);
-
         org.chocosolver.solver.Solver solver = model.getSolver();
-        solver.limitTime("10m");
-
         solver.setSearch(Search.intVarSearch(
                 new FirstFail(model),
                 new IntDomainMin(),
                 ordered
         ));
 
+        // Solve and give feedback
+        if (SUBMISSION)
+            solver.limitTime("1h");
+        else
+            solver.limitTime("10m");
         while (solver.solve()) {
             for (int i = 0; i < graph.V(); i++) {
                 colors[i] = vertices[i].getValue();
             }
             numColors = maxColor.getValue() + 1;
-
-            PrintSolution();
+            if (!SUBMISSION)
+                PrintSolution();
         }
         isOptimal = solver.isObjectiveOptimal();
-        solver.printStatistics();
+        if (!SUBMISSION)
+            solver.printStatistics();
     }
 
-    private static void SolveChoco() {
-        Model model = new Model("Graph coloring");
-        IntVar[] vertices = new IntVar[graph.V()];
-        for (int i = 0; i < graph.V(); i++) {
-            vertices[i] = model.intVar(0, i, false);
-        }
-
-        IntVar maxColor = model.intVar(1, maxDegree(graph) + 1);
-        model.max(maxColor, vertices).post();
-
-        for (int v = 0; v < graph.V(); v++) {
-            for (int w: graph.adj(v)) {
-                model.arithm(vertices[v], "!=", vertices[w]).post();
-            }
-        }
-
-        model.setObjective(Model.MINIMIZE, maxColor);
-
-        org.chocosolver.solver.Solver solver = model.getSolver();
-        solver.limitTime("10m");
-
-        while (solver.solve()) {
-            for (int i = 0; i < graph.V(); i++) {
-                colors[i] = vertices[i].getValue();
-            }
-            numColors = maxColor.getValue() + 1;
-
-            PrintSolution();
-        }
-        isOptimal = solver.isObjectiveOptimal();
-        solver.printStatistics();
-    }
 
     private static void SolveGreedy() {
         numColors = 0;
