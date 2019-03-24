@@ -1,4 +1,6 @@
-import edu.princeton.cs.algs4.*;
+import edu.princeton.cs.algs4.In;
+import edu.princeton.cs.algs4.StdDraw;
+import edu.princeton.cs.algs4.StdOut;
 
 import java.awt.*;
 
@@ -33,7 +35,7 @@ public class TspSpace {
     }
 
     private double minX = 0.0, maxX = 0.0, minY = 0.0, maxY = 0.0;
-    private TspPoint[] points;
+    private final TspPoint[] points;
     private double[][] distance;
 
     public TspSpace(In inputFile) {
@@ -66,8 +68,8 @@ public class TspSpace {
     }
 
     private double calcdist(int i, int j) {
-        return Math.sqrt(Math.pow(Math.abs(points[i].x - points[j].x), 2) +
-                Math.pow(Math.abs(points[i].y - points[j].y), 2));
+        return Math.sqrt(Math.pow(points[i].x - points[j].x, 2) +
+                Math.pow(points[i].y - points[j].y, 2));
     }
 
     public TspPoint get(int i) {
@@ -82,7 +84,7 @@ public class TspSpace {
     }
 
 
-    public void drawToScale() {
+    private void drawToScale() {
         StdDraw.setCanvasSize(1200, 1000);
         StdDraw.setXscale(minX - 1.0, maxX + 1.0);
         StdDraw.setYscale(minY - 1.0, maxY + 1.0);
