@@ -4,7 +4,7 @@ object Solver {
 
   private var numItems: Int = 0
   private var capacity: Int = 0
-  private var items: List[Item] = null
+  private var items: List[Item] = _
 
 
   def main(args: Array[String]): Unit = {
@@ -65,12 +65,12 @@ object Solver {
         var guess: Double = value
         var room = remainingCapacity
         var it = itemsRemaining
-        while (!it.isEmpty && room - it.head.weight > 0) {
+        while (it.nonEmpty && room - it.head.weight > 0) {
           guess += it.head.value
           room -= it.head.weight
           it = it.tail
         }
-        if (!it.isEmpty)
+        if (it.nonEmpty)
           guess += (room.toDouble * it.head.value / it.head.weight.toDouble).ceil
         guess
       }
@@ -126,6 +126,6 @@ object Solver {
 }
 
 
-case class Item(val value: Int, val weight: Int) {
+case class Item(value: Int, weight: Int) {
   var taken: Boolean = false
 }
