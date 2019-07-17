@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc975ece-6855-4556-8d6f-96939c92661f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knapsack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/knapsack.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solver.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solver.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facility/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facility/src/Solver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsp/src/Solver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tsp/src/Solver.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +18,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solver.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="818">
+            <state relative-caret-position="1853">
               <caret line="109" selection-start-line="109" selection-end-line="109" />
             </state>
           </provider>
@@ -85,8 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,9 +95,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544996211008" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../coloring" />
     <property name="project.structure.last.edited" value="Project" />
@@ -150,6 +150,7 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -200,8 +201,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="290" y="9" width="1460" height="1033" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.155" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15714286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -246,7 +248,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solver.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="818">
+        <state relative-caret-position="1853">
           <caret line="109" selection-start-line="109" selection-end-line="109" />
         </state>
       </provider>

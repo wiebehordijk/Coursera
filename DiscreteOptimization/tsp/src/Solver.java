@@ -15,7 +15,7 @@ public class Solver {
     private static Route currentRoute;
     private static TabuList<Route> tabu;
     private static int tabuHits = 0;
-    private static final double TIME = 100.0;
+    private static final double TIME = 1000.0;
     private static int twoOptSteps = 0;
     private static int threeOptSteps = 0;
     private static int shuffles = 0;
@@ -37,9 +37,9 @@ public class Solver {
             while ((twoOptLocalSearchStep() > 0.001 || threeOptLocalSearchStep() > 0.001) && sw.elapsedTime() < TIME) {
                 if (currentRoute.distance() < bestRoute.distance()) {
                     bestRoute = currentRoute;
-                    printRoute(currentRoute);
-                    tabu.add(currentRoute);
-                    StdOut.println(sw.elapsedTime());
+//                    printRoute(currentRoute);
+//                    tabu.add(currentRoute);
+//                    StdOut.println(sw.elapsedTime());
                 }
             }
             shuffle();
@@ -49,10 +49,10 @@ public class Solver {
         }
 
         printRoute(bestRoute);
-        StdOut.println("Time: " + sw.elapsedTime());
-        StdOut.println("Two-opt steps: " + twoOptSteps);
-        StdOut.println("Three-opt steps: " + threeOptSteps);
-        StdOut.println("Shuffles: " + shuffles);
+//        StdOut.println("Time: " + sw.elapsedTime());
+//        StdOut.println("Two-opt steps: " + twoOptSteps);
+//        StdOut.println("Three-opt steps: " + threeOptSteps);
+//        StdOut.println("Shuffles: " + shuffles);
     }
 
     private static void printRoute(Route route) {
