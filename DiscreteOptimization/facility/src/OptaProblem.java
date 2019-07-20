@@ -14,13 +14,15 @@ public class OptaProblem {
     private List<Facility> facilities;
     private List<Customer> customers;
     private HardSoftLongScore score;
+    private FacilitySolver fc;
 
     public OptaProblem() {
     }
 
-    public OptaProblem(List<Facility> facilities, List<Customer> customers) {
+    public OptaProblem(List<Facility> facilities, List<Customer> customers, FacilitySolver fc) {
         this.facilities = facilities;
         this.customers = customers;
+        this.fc = fc;
     }
 
     @ProblemFactCollectionProperty

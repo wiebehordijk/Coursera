@@ -23,6 +23,11 @@ public class Facility {
         capacityLeft += customer.getDemand();
     }
 
+    public int getNumCustomers() {
+        return customers.size();
+    }
+
+
     public int getCapacityLeft() {
         return capacityLeft;
     }

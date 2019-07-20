@@ -4,7 +4,7 @@ import org.optaplanner.core.api.domain.variable.PlanningVariable;
 import java.util.Map;
 import java.util.Objects;
 
-@PlanningEntity()
+@PlanningEntity(difficultyComparatorClass = CustomerDifficultyComparator.class)
 public class Customer {
     private int index;
     private int demand;
@@ -13,6 +13,13 @@ public class Customer {
 
     public int getDemand() {
         return demand;
+    }
+
+    public int getUnassignedDemand() {
+        if (facility == null)
+            return demand;
+        else
+            return 0;
     }
 
     @PlanningVariable(valueRangeProviderRefs = {"facilityRange"})

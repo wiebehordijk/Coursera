@@ -1,0 +1,26 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "../../../../MiniZinc/facility/facility.mzn",
+        "../data/fl_3_1.dzn",
+        "../data/fl_16_1.dzn",
+        "../data/fl_25_2.dzn",
+        "../data/fl_100_1.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "../data/fl_100_1.dzn",
+        "../data/fl_16_1.dzn",
+        "../data/fl_2000_2.dzn",
+        "../data/fl_25_2.dzn",
+        "../data/fl_3_1.dzn",
+        "../../../../MiniZinc/facility/facility.mzn",
+        "../../../../MiniZinc/facility/fl_3_1.dzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.1.1",
+    "version": 105
+}

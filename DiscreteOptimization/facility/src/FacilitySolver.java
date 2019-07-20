@@ -27,6 +27,10 @@ public class FacilitySolver {
     int[] capacityLeft;
     double[] customerCost;
 
+    public double getDistance(int facility, int customer) {
+        return dist[facility][customer];
+    }
+
     private FacilitySolver(String filename) {
         readFile(filename);
     }
@@ -146,7 +150,7 @@ public class FacilitySolver {
             }
             customers[i] = new Customer(i, demand[i], distances);
         }
-        OptaProblem unsolved = new OptaProblem(Arrays.asList(facilities), Arrays.asList(customers));
+        OptaProblem unsolved = new OptaProblem(Arrays.asList(facilities), Arrays.asList(customers), this);
 
         SolverFactory<OptaProblem> solverFactory = SolverFactory.createFromXmlResource(
                 "optaSolverConfig.xml");
@@ -242,7 +246,7 @@ public class FacilitySolver {
 
 
     public static void main(String[] args) throws FileNotFoundException {
-        System.setErr(new PrintStream("errorlog.txt"));
+//        System.setErr(new PrintStream("errorlog.txt"));
         FacilitySolver solver = new FacilitySolver(args[0]);
         solver.solveOpta();
 //        String outputFilename = args[0] + ".dzn";
