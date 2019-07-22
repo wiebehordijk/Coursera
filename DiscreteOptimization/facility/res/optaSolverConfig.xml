@@ -3,7 +3,8 @@
     <!-- Domain model configuration -->
     <scanAnnotatedClasses/>
 
-    <environmentMode>NON_REPRODUCIBLE</environmentMode>
+<!--    <environmentMode>FULL_ASSERT</environmentMode>-->
+    <environmentMode>REPRODUCIBLE</environmentMode>
 
     <!-- Score configuration -->
     <scoreDirectorFactory>
@@ -20,12 +21,14 @@
         <unionMoveSelector>
             <changeMoveSelector></changeMoveSelector>
             <swapMoveSelector></swapMoveSelector>
+            <pillarChangeMoveSelector/>
+<!--            <pillarSwapMoveSelector/>-->
         </unionMoveSelector>
         <acceptor>
             <entityTabuRatio>0.01</entityTabuRatio>
         </acceptor>
         <forager>
-            <acceptedCountLimit>1000</acceptedCountLimit>
+<!--            <acceptedCountLimit>60000</acceptedCountLimit>-->
         </forager>
     </localSearch>
 

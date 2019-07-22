@@ -6,6 +6,7 @@ import org.chocosolver.solver.variables.BoolVar;
 import org.chocosolver.solver.variables.IntVar;
 import org.optaplanner.core.api.solver.Solver;
 import org.optaplanner.core.api.solver.SolverFactory;
+import org.optaplanner.core.config.localsearch.LocalSearchPhaseConfig;
 
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
@@ -154,6 +155,8 @@ public class FacilitySolver {
 
         SolverFactory<OptaProblem> solverFactory = SolverFactory.createFromXmlResource(
                 "optaSolverConfig.xml");
+        LocalSearchPhaseConfig local = (LocalSearchPhaseConfig) solverFactory.getSolverConfig().getPhaseConfigList().get(1);
+        local.getForagerConfig().setAcceptedCountLimit(numFacilities * 60);
         Solver<OptaProblem> solver = solverFactory.buildSolver();
 
         OptaProblem solved = solver.solve(unsolved);

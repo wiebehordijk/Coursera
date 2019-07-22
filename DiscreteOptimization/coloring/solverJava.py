@@ -16,7 +16,7 @@ def solve_it(input_data):
     # Runs the command: java Solver -file=tmp.data
 
     process = Popen(['java', '-cp',
-                     r'out\production\coloring;C:\Code\Coursera\Algorithms\algs4.jar;C:\Code\Coursera\DiscreteOptimization\choco-4.10.0\choco-solver-4.10.0.jar',
+                     r'out\production\coloring;D:\Code\Coursera\Algorithms\algs4.jar;D:\Code\Coursera\DiscreteOptimization\choco-4.10.0\choco-solver-4.10.0.jar',
                      'Solver', 'tmp.data'], stdout=PIPE)
     (stdout, stderr) = process.communicate()
 
