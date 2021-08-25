@@ -1,0 +1,12 @@
+[main] INFO org.reflections.Reflections - Reflections took 30 ms to scan 1 urls, producing 3 keys and 3 values 
+Exception in thread "main" java.lang.NullPointerException
+	at FacilityEasyScoreCalculator.totalCost(FacilityEasyScoreCalculator.java:34)
+	at FacilityEasyScoreCalculator.calculateScore(FacilityEasyScoreCalculator.java:22)
+	at FacilityEasyScoreCalculator.calculateScore(FacilityEasyScoreCalculator.java:9)
+	at org.optaplanner.core.impl.score.director.easy.EasyScoreDirector.calculateScore(EasyScoreDirector.java:60)
+	at org.optaplanner.core.impl.solver.recaller.BestSolutionRecaller.solvingStarted(BestSolutionRecaller.java:69)
+	at org.optaplanner.core.impl.solver.AbstractSolver.solvingStarted(AbstractSolver.java:76)
+	at org.optaplanner.core.impl.solver.DefaultSolver.solvingStarted(DefaultSolver.java:210)
+	at org.optaplanner.core.impl.solver.DefaultSolver.solve(DefaultSolver.java:190)
+	at FacilitySolver.solveOpta(FacilitySolver.java:155)
+	at FacilitySolver.main(FacilitySolver.java:247)
