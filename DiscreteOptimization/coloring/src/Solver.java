@@ -15,7 +15,7 @@ import java.util.stream.Stream;
 
 public class Solver {
 
-    private final static boolean SUBMISSION = false;
+    private final static boolean SUBMISSION = true;
     private static Graph graph;
     private static int[] colors;
     private static int numColors;

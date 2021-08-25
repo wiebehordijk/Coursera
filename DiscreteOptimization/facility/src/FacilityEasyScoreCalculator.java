@@ -26,16 +26,16 @@ public class FacilityEasyScoreCalculator implements EasyScoreCalculator<OptaProb
 
     public double totalCost(OptaProblem optaProblem) {
         double totalCost = 0.0;
-        boolean[] openFacilities = new boolean[optaProblem.getFacilities().size()];
+        boolean[] open = new boolean[optaProblem.getFacilities().size()];
         for (Customer c : optaProblem.getCustomers()) {
             totalCost += c.cost();
-//            if (c.getFacility() != null && !openFacilities[c.getFacility().getIndex()]) {
-//                openFacilities[c.getFacility().getIndex()] = true;
-//                totalCost += c.getFacility().getSetupCost();
-//            }
+            if (c.getFacility() != null) {
+                open[c.getFacility().getIndex()] = true;
+            }
         }
         for (Facility f : optaProblem.getFacilities()) {
-            totalCost += f.cost();
+            if (open[f.getIndex()])
+                totalCost += f.getSetupCost();
         }
         return totalCost;
     }

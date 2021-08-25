@@ -48,7 +48,7 @@ public class OptaProblem {
     public String toString() {
         FacilityEasyScoreCalculator calculator = new FacilityEasyScoreCalculator();
         StringBuilder builder = new StringBuilder();
-        if (score.getHardScore() < 0) {
+        if (score != null && score.getHardScore() < 0) {
             builder.append("No feasible solution found. Hardscore: " + score.getHardScore() + "\n");
         }
         builder.append(calculator.totalCost(this) + " 0\n");
