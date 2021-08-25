@@ -3,3 +3,8 @@
 **/out
 **/out/**
 **/__pycache__
+*.zip
+*.jar
+*.png
+*.gif
+
